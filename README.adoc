@@ -1,0 +1,6 @@
+= Freescale FreeRTOS BSP
+
+The FreeRTOS BSP is intended for use with NXP’s i.MX product family on the ARM Cortex-M4 core.
+
+
+*Support platform:* `edm1-cf-imx6sx`

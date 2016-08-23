@@ -1,0 +1,3 @@
+/home/william/Downloads/Axon-imx93-2_16/boards/mcimx93evk/multicore_examples/rpmsg_lite_str_echo_rtos/armgcc/CMakeFiles/rpmsg_lite_str_echo_rtos_imxcm33.elf.dir
+/home/william/Downloads/Axon-imx93-2_16/boards/mcimx93evk/multicore_examples/rpmsg_lite_str_echo_rtos/armgcc/CMakeFiles/edit_cache.dir
+/home/william/Downloads/Axon-imx93-2_16/boards/mcimx93evk/multicore_examples/rpmsg_lite_str_echo_rtos/armgcc/CMakeFiles/rebuild_cache.dir
