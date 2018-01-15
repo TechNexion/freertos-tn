@@ -54,8 +54,8 @@ extern struct hil_platform_ops proc_ops;
 /*
  * Linux has a different alignment requirement, and its have 512 buffers instead of 32 buffers for the 2 ring
  */
-#define VRING0_BASE                       0xBFFF0000
-#define VRING1_BASE                       0xBFFF8000
+#define VRING0_BASE                       0x9FFF0000
+#define VRING1_BASE                       0x9FFF8000
 
 /* IPI_VECT here defines VRING index in MU */
 #define VRING0_IPI_VECT                   0

@@ -36,6 +36,6 @@ In u-boot prompt:
 => dcache flush
 => bootaux 0x7F8000
 
-On the second serial port, you should see the following output:
+On the cortex-m4 debug console, you should see the following output:
 [source,console]
 Hello World!
