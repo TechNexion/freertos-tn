@@ -86,23 +86,23 @@ void configure_i2c_pins(I2C_Type* base)
     {
         case I2C1_BASE:
             // I2C1 iomux configuration
-            IOMUXC_SW_MUX_CTL_PAD_I2C1_SCL = IOMUXC_SW_MUX_CTL_PAD_I2C1_SCL_MUX_MODE(0) |
-                                             IOMUXC_SW_MUX_CTL_PAD_I2C1_SCL_SION_MASK;
-            IOMUXC_SW_MUX_CTL_PAD_I2C1_SDA = IOMUXC_SW_MUX_CTL_PAD_I2C1_SDA_MUX_MODE(0) |
-                                             IOMUXC_SW_MUX_CTL_PAD_I2C1_SDA_SION_MASK;
+            IOMUXC_SW_MUX_CTL_PAD_UART1_RX_DATA = IOMUXC_SW_MUX_CTL_PAD_UART1_RX_DATA_MUX_MODE(1) |
+                                                  IOMUXC_SW_MUX_CTL_PAD_UART1_RX_DATA_SION_MASK;
+            IOMUXC_SW_MUX_CTL_PAD_UART1_TX_DATA = IOMUXC_SW_MUX_CTL_PAD_UART1_TX_DATA_MUX_MODE(1) |
+                                                  IOMUXC_SW_MUX_CTL_PAD_UART1_TX_DATA_SION_MASK;
 
-            IOMUXC_I2C1_SCL_SELECT_INPUT = IOMUXC_I2C1_SCL_SELECT_INPUT_DAISY(1);
-            IOMUXC_I2C1_SDA_SELECT_INPUT = IOMUXC_I2C1_SDA_SELECT_INPUT_DAISY(1);
+            IOMUXC_I2C1_SCL_SELECT_INPUT = IOMUXC_I2C1_SCL_SELECT_INPUT_DAISY(0);
+            IOMUXC_I2C1_SDA_SELECT_INPUT = IOMUXC_I2C1_SDA_SELECT_INPUT_DAISY(0);
 
-            IOMUXC_SW_PAD_CTL_PAD_I2C1_SCL = IOMUXC_SW_PAD_CTL_PAD_I2C1_SCL_PE_MASK  |
-                                             IOMUXC_SW_PAD_CTL_PAD_I2C1_SCL_PS(3)    |
-                                             IOMUXC_SW_PAD_CTL_PAD_I2C1_SCL_DSE(0)   |
-                                             IOMUXC_SW_PAD_CTL_PAD_I2C1_SCL_HYS_MASK;
+            IOMUXC_SW_PAD_CTL_PAD_UART1_RX_DATA = IOMUXC_SW_PAD_CTL_PAD_UART1_RX_DATA_PE_MASK  |
+                                                  IOMUXC_SW_PAD_CTL_PAD_UART1_RX_DATA_PS(3)    |
+                                                  IOMUXC_SW_PAD_CTL_PAD_UART1_RX_DATA_DSE(0)   |
+                                                  IOMUXC_SW_PAD_CTL_PAD_UART1_RX_DATA_HYS_MASK;
 
-            IOMUXC_SW_PAD_CTL_PAD_I2C1_SDA = IOMUXC_SW_PAD_CTL_PAD_I2C1_SDA_PE_MASK  |
-                                             IOMUXC_SW_PAD_CTL_PAD_I2C1_SDA_PS(3)    |
-                                             IOMUXC_SW_PAD_CTL_PAD_I2C1_SDA_DSE(0)   |
-                                             IOMUXC_SW_PAD_CTL_PAD_I2C1_SDA_HYS_MASK;
+            IOMUXC_SW_PAD_CTL_PAD_UART1_TX_DATA = IOMUXC_SW_PAD_CTL_PAD_UART1_TX_DATA_PE_MASK  |
+                                                  IOMUXC_SW_PAD_CTL_PAD_UART1_TX_DATA_PS(3)    |
+                                                  IOMUXC_SW_PAD_CTL_PAD_UART1_TX_DATA_DSE(0)   |
+                                                  IOMUXC_SW_PAD_CTL_PAD_UART1_TX_DATA_HYS_MASK;
             break;
         case I2C2_BASE:
             // I2C2 iomux configuration

@@ -28,40 +28,50 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-#ifndef __GPIO_PINS_H__
-#define __GPIO_PINS_H__
-
-#include "device_imx.h"
 #include "board.h"
+#include "gpio_pins.h"
 
-/*! @brief i.MX GPIO initialize structure. */
-typedef struct _gpio_config
+void hardware_init(void)
 {
-    const char        *name;
-    __IO  uint32_t    *muxReg;
-    uint32_t           muxConfig;
-    __IO  uint32_t    *padReg;
-    uint32_t           padConfig;
-    GPIO_Type         *base;
-    uint32_t           pin;
-} gpio_config_t;
+    /* Board specific RDC settings */
+    BOARD_RdcInit();
 
-#if defined(__cplusplus)
-extern "C" {
-#endif /* __cplusplus */
+    /* Board specific clock settings */
+    BOARD_ClockInit();
 
-/*! @brief GPIO pin configuration */
-extern gpio_config_t gpioLed;
-#if ( DWARF_BOARD == 1 )
-extern gpio_config_t gpioSensorInt;
-extern gpio_config_t gpioGyrInt;
-extern gpio_config_t gpioPressureInt;
-#endif	// #if ( DWARF_BOARD == 1 )
+    /* initialize debug uart */
+    dbg_uart_init();
 
-/*! @brief Configure specific GPIO pin */
-void configure_gpio_pin(gpio_config_t *config);
+    /* In this demo, we need to access RDC SEMAPHORE1 on this board */
+    RDC_SetPdapAccess(RDC, rdcPdapSemaphore1, 0xFF, false, false);
 
-#endif /* __GPIO_PINS_H__ */
+    /* In this demo, we need to share board GPIO, we can set sreq argument to true
+     * when the peer core could also access GPIO with RDC_SEMAPHORE, or the peer
+     * core doesn't access the GPIO at all */
+    RDC_SetPdapAccess(RDC, BOARD_GPIO_SENSOR_RDC_PDAP, 0xFF, false/*true*/, false);
+
+    /* In this example, we need to grasp board I2C exclusively */
+    RDC_SetPdapAccess(RDC, BOARD_I2C_RDC_PDAP, 3 << (BOARD_DOMAIN_ID * 2), false, false);
+
+    /* Select I2C clock derived from OSC clock(24M) */
+    CCM_UpdateRoot(CCM, BOARD_I2C_CCM_ROOT, ccmRootmuxI2cOsc24m, 0, 0);
+    /* Enable I2C clock */
+    CCM_EnableRoot(CCM, BOARD_I2C_CCM_ROOT);
+    CCM_ControlGate(CCM, BOARD_I2C_CCM_CCGR, ccmClockNeededRunWait);
+
+    /* I2C Pin setting */
+    configure_i2c_pins(BOARD_I2C_BASEADDR);
+
+    /* Enable RDC SEMAPHORE GATE needed in this demo */
+    CCM_ControlGate(CCM, ccmCcgrGateSema1, ccmClockNeededRunWait);
+
+    /* Enable gpio clock gate */
+    CCM_ControlGate(CCM, BOARD_GPIO_SENSOR_CCM_CCGR, ccmClockNeededRunWait);
+
+    /* Configure gpio pin IOMUX */
+    configure_gpio_pin(BOARD_GPIO_SENSOR_CONFIG);
+}
+
 /*******************************************************************************
  * EOF
  ******************************************************************************/
