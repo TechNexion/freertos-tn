@@ -17,7 +17,7 @@ SET(CMAKE_STATIC_LIBRARY_SUFFIX)
 SET(CMAKE_EXECUTABLE_LIBRARY_PREFIX)
 SET(CMAKE_EXECUTABLE_LIBRARY_SUFFIX)
 
- 
+
 # CURRENT DIRECTORY
 SET(ProjDirPath ${CMAKE_CURRENT_SOURCE_DIR})
 
@@ -92,7 +92,7 @@ ELSEIF(CMAKE_BUILD_TYPE MATCHES Release)
 ENDIF()
 
 # ADD_EXECUTABLE
-ADD_EXECUTABLE(rpmsg_str_echo_freertos_example 
+ADD_EXECUTABLE(rpmsg_str_echo_freertos_example
     "${ProjDirPath}/../../../../../../rtos/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c"
     "${ProjDirPath}/../../../../../../rtos/FreeRTOS/Source/portable/GCC/ARM_CM4F/portmacro.h"
     "${ProjDirPath}/../../../../../../platform/devices/MCIMX7D/startup/gcc/startup_MCIMX7D_M4.S"

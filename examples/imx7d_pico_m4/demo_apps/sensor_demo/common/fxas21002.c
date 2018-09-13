@@ -127,7 +127,7 @@ bool FXAS_WriteReg(fxas_handle_t *handle, uint8_t regAddr, uint8_t regVal)
     cmdBuffer[0] = handle->address << 1;
     cmdBuffer[1] = regAddr;
 
-    return I2C_XFER_SendDataBlocking(handle->device, cmdBuffer, 2, &regVal, 1); 
+    return I2C_XFER_SendDataBlocking(handle->device, cmdBuffer, 2, &regVal, 1);
 }
 
 /*FUNCTION**********************************************************************

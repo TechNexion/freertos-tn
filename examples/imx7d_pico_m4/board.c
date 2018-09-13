@@ -41,8 +41,8 @@ void BOARD_ClockInit(void)
 {
     /* OSC/PLL is already initialized by Cortex-A7 (u-boot) */
 
-    /* 
-     * Disable WDOG3 
+    /*
+     * Disable WDOG3
      *  Note : The WDOG clock Root is shared by all the 4 WDOGs, so FreeROTS
      *  code should avoid closing it
      */

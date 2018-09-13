@@ -181,7 +181,7 @@ void BOARD_DEBUG_UART_HANDLER(void)
                 if (uartState.rxSize == 0U)
                 {
                     UART_SetIntCmd(BOARD_DEBUG_UART_BASEADDR, uartIntRxReady, false);
-                    
+
                     uartState.isRxBusy = false;
                     break;
                 }

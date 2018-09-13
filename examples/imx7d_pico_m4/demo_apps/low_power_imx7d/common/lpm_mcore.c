@@ -122,7 +122,7 @@ static uint8_t* RAM_Function_Copy(uint8_t* func_start, uint8_t* func_end)
  */
 static void RAM_Wfi(void) {
 
-    /* 
+    /*
      * Use MU to tell A7 high bus can be released
      *      Note : Function call is not working in this RAM migrated function
      */
@@ -130,7 +130,7 @@ static void RAM_Wfi(void) {
     MUB->TR[LPM_MCORE_MU_CHANNEL] = MSG_LPM_M4_RELEASE_HIGHBUS;
     while ((MUB_SR & MU_SR_EP_MASK) != 0);
 
-    /* 
+    /*
      * this WFI will only be wakeup by wakeup interrupt registered
      * by "LPM_MCORE_RegisterWakeupInterrupt"
      */
@@ -142,7 +142,7 @@ static void RAM_Wfi(void) {
     while (0 == (MUB_SR & MU_SR_TEn(0x8 >> LPM_MCORE_MU_CHANNEL)));
     MUB->TR[LPM_MCORE_MU_CHANNEL] = MSG_LPM_M4_RUN;
     while ((MUB_SR & MU_SR_EP_MASK) != 0);
-    /* 
+    /*
      * After wakeup, req A7 to resume clock, wait until getting ACK
      */
     while (0 == (MUB_SR & MU_SR_TEn(0x8 >> LPM_MCORE_MU_CHANNEL)));
@@ -156,7 +156,7 @@ static void RAM_Wfi(void) {
                 break;
     }
 
-    /* 
+    /*
      * manual clear MU pending interrupt
      */
     NVIC->ICPR[((uint32_t)(MU_M4_IRQn) >> 5)] = (1 << ((uint32_t)(MU_M4_IRQn) & 0x1F));
@@ -316,7 +316,7 @@ void LPM_MCORE_Init(GPC_Type * base)
 LPM_POWER_STATUS_M4 LPM_MCORE_GetPowerStatus(GPC_Type * base)
 {
     return m4_lpm_state;
-} 
+}
 
 /*
  * on-the-fly change m4 parent clock between 24MHz and 240MHz
@@ -414,7 +414,7 @@ const char* LPM_MCORE_GetPowerStatusString(void)
 /*
  * Check if A7 LPM Driver is ready, an "Once Ready, Always Ready" logic is used
  */
-uint32_t LPM_MCORE_CheckPeerReady(void) 
+uint32_t LPM_MCORE_CheckPeerReady(void)
 {
     static uint32_t a7_ready = 0;
     if (!a7_ready) {
@@ -458,7 +458,7 @@ void lpm_disable_non_wakeup_interrupt(uint32_t* pBasepriBackup)
         if (ele == NULL)
             break;
 
-        /* 
+        /*
          * Store the current Priority into ele backup field
          * Change the Priority to "configLIBRARY_MAX_SYSCALL_INTERRUPT_PRIORITY - 1"
          */
@@ -494,7 +494,7 @@ void lpm_enable_non_wakeup_interrupt(uint32_t basePriBackup)
         if (ele == NULL)
             break;
 
-        /* 
+        /*
          * Restore the original priority
          */
         irq_no = ele->irq_no;
@@ -524,8 +524,8 @@ void LPM_MCORE_WaitForInt(void)
 {
     uint32_t priMaskBackup;
 
-    /* 
-     * Only when 
+    /*
+     * Only when
      *      1. A7 peer is ready
      *      2. safe sleep function has been put into TCM
      *      3. m4 true sleep mode has been allowed
@@ -556,8 +556,8 @@ void LPM_MCORE_WaitForInt(void)
         /* Save current PRIMASK value. */
         priMaskBackup = __get_PRIMASK();
 
-        /* 
-         * Set PRIMASK to avoid execution of any enabled ISR. 
+        /*
+         * Set PRIMASK to avoid execution of any enabled ISR.
          *      Note : PRIMASK will not prevent interrupt to wake up M4 from WFI
          *             but it will prevent interrupt handler from running
          */
@@ -595,7 +595,7 @@ void LPM_MCORE_WaitForInt(void)
                     LPM_MCORE_SendMessage(MSG_LPM_M4_WAIT);
                 else if (next_lpm_mode == LPCR_M4_STOP)
                     LPM_MCORE_SendMessage(MSG_LPM_M4_STOP);
-                /* 
+                /*
                  * do modification to BASEPRI and NVIC->Priority settings so that
                  * all interrupt except wakeup interrupt are disabled
                  */
@@ -614,7 +614,7 @@ void LPM_MCORE_WaitForInt(void)
             default:
                 break;
         }
-        /* 
+        /*
          * Recover PRIMASK register value. this will enable the wakeup interrupt
          * handler and will activate the main task immediately
          */
@@ -655,7 +655,7 @@ void LPM_MCORE_WaitForInt(void)
  *       only, the IRQ will be unmasked for a interval long enough (longer than
  *       5 32K clock cycle as suggested by IC) and then be masked again.
  *
- *     - The function configures GPTB to generate a pending interrupt. 
+ *     - The function configures GPTB to generate a pending interrupt.
  */
 static void GPT_Patch_Prepare(void) {
     uint64_t counter = 24000 * 5; /* Requrie 5ms to generate the pending interrupt*/

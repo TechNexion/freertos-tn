@@ -59,12 +59,12 @@ void GPC_Init(GPC_Type * base)
     base->SLT_CFG[1] = GPC_SLT_CFG_M4_VIRTUAL_PDN_SLOT_CONTROL_MASK | GPC_SLT_CFG_FASTMEGA_PDN_SLOT_CONTROL_MASK;
     base->SLT_CFG[5] = GPC_SLT_CFG_M4_VIRTUAL_PUP_SLOT_CONTROL_MASK | GPC_SLT_CFG_FASTMEGA_PUP_SLOT_CONTROL_MASK;
 
-    /* 
+    /*
      * Fast map to both A7 and M4
      *      - M4 only have access to byte 1, A7 only have access to byte 0
-     *      - set to 1 for "map" 
+     *      - set to 1 for "map"
      */
-    base->PGC_CPU_MAPPING = GPC_PGC_CPU_MAPPING_FASTMEGA_M4_DOMAIN_MASK; 
+    base->PGC_CPU_MAPPING = GPC_PGC_CPU_MAPPING_FASTMEGA_M4_DOMAIN_MASK;
 }
 
 /*

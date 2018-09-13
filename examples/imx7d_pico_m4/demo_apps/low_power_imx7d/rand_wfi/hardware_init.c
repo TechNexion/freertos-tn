@@ -56,7 +56,7 @@ void hardware_init(void)
         CCM_BASE_PTR->PLL_CTRL[i].PLL_CTRL = ccmClockNeededRun;
     }
 
-    
+
     /* Enable clock gate for wakeup mix*/
     CCM_ControlGate(CCM, BOARD_SIM_WAKEUP_CCGR, ccmClockNeededAll);
 

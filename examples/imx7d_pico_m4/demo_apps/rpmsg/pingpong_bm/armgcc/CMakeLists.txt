@@ -17,7 +17,7 @@ SET(CMAKE_STATIC_LIBRARY_SUFFIX)
 SET(CMAKE_EXECUTABLE_LIBRARY_PREFIX)
 SET(CMAKE_EXECUTABLE_LIBRARY_SUFFIX)
 
- 
+
 # CURRENT DIRECTORY
 SET(ProjDirPath ${CMAKE_CURRENT_SOURCE_DIR})
 
@@ -88,7 +88,7 @@ ELSEIF(CMAKE_BUILD_TYPE MATCHES Release)
 ENDIF()
 
 # ADD_EXECUTABLE
-ADD_EXECUTABLE(rpmsg_pingpong_bm_example 
+ADD_EXECUTABLE(rpmsg_pingpong_bm_example
     "${ProjDirPath}/../../../../../../platform/devices/MCIMX7D/startup/gcc/startup_MCIMX7D_M4.S"
     "${ProjDirPath}/../../../../../../middleware/multicore/open-amp/porting/imx7d_m4/platform.h"
     "${ProjDirPath}/../../../../../../middleware/multicore/open-amp/porting/imx7d_m4/rpmsg_platform_porting.h"
