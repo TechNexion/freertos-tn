@@ -1,6 +1,45 @@
-= NXP FreeRTOS BSP
+= NXP FreeRTOTOS BSP
 
 The FreeRTOS BSP is for NXP’s i.MX SOC family with ARM Cortex-M4 core.
 
 
-*Support platform:* `pico-imx7d`
+*Support platform:* `pico-imx8m`
+
+Download and install toolchain to compile FreeRTOS:
+[source,console]
+$: wget 'https://launchpad.net/gcc-arm-embedded/4.9/4.9-2015-q3-update/+download/gcc-arm-none-eabi-4_9-2015q3-20150921-linux.tar.bz2'
+$: tar jxvf gcc-arm-none-eabi-4_9-2015q3-20150921-linux.tar.bz2
+
+FreeRTOS relies on cmake to build, so you also need to make sure the following packages are installed on your machine:
+[source,console]
+$: sudo apt-get install make cmake
+
+Export the environment of toolchain
+[source,console]
+$: export ARMGCC_DIR=${absolute_path}/gcc-arm-none-eabi-4_9-2015q3/
+
+Then, you can start to compile the example you would like to run.
+
+
+*For example:*
+
+Build the hello_world application:
+[source,console]
+$: cd freertos-tn/boards/pico-8m-m4/demo_apps/hello_world/armgcc/
+$: ./build_release.sh
+
+Copy binary file to eMMC FAT partation of target board:
+[source,console]
+cp ./release/hello_world.bin ${FAT partation}
+
+*Run hello_world example on pico-imx8m:*
+
+In u-boot prompt:
+[source,console]
+=> fatload mmc 0:1 0x7e0000 hello_world.bin
+=> dcache flush
+=> bootaux 0x7e0000
+
+On the cortex-m4 debug console, you should see the following output:
+[source,console]
+Hello World!
