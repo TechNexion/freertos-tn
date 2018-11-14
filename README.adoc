@@ -3,4 +3,8 @@
 The FreeRTOS BSP is for NXP’s i.MX SOC family with ARM Cortex-M4 core.
 
 
-*Support platform:* `pico-imx7d`
+*Support platform:* 
+
+i.MX7: `PICO-IMX7D`, `EDM-IMX7D`
+
+i.MX8M: `PICO-IMX8M`
