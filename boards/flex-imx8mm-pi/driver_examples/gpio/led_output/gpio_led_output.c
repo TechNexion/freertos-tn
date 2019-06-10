@@ -15,9 +15,9 @@
 /*******************************************************************************
  * Definitions
  ******************************************************************************/
-#define EXAMPLE_LED_GPIO GPIO5
-#define EXAMPLE_LED_GPIO_PIN 11U
-#define EXAMPLE_DELAY_COUNT 400000U
+#define EXAMPLE_LED_GPIO GPIO3
+#define EXAMPLE_LED_GPIO_PIN 24U
+#define EXAMPLE_DELAY_COUNT 4000000U
 
 /*******************************************************************************
  * Prototypes

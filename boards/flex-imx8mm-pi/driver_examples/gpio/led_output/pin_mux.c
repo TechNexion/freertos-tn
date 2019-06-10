@@ -55,7 +55,7 @@ BOARD_InitPins:
  *
  * END ****************************************************************************************************************/
 void BOARD_InitPins(void) {                                /*!< Function assigned for the core: Cortex-M4[m4] */
-    IOMUXC_SetPinMux(IOMUXC_ECSPI2_MOSI_GPIO5_IO11, 0U);
+    IOMUXC_SetPinMux(IOMUXC_SAI5_RXD3_GPIO3_IO24, 0U);
     IOMUXC_SetPinMux(IOMUXC_UART4_RXD_UART4_RX, 0U);
     IOMUXC_SetPinConfig(IOMUXC_UART4_RXD_UART4_RX, 
                         IOMUXC_SW_PAD_CTL_PAD_DSE(6U) |
