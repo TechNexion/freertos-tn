@@ -1,4 +1,4 @@
-= NXP FreeRTOTOS BSP
+= NXP FreeRTOS BSP
 
 The FreeRTOS BSP is for NXP’s i.MX SOC family with ARM Cortex-M4 core.
 
