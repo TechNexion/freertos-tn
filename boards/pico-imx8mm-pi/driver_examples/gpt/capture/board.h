@@ -13,7 +13,7 @@
  * Definitions
  ******************************************************************************/
 /*! @brief The board name */
-#define BOARD_NAME "MIMX8MM-EVK"
+#define BOARD_NAME "PICO-IMX8MM"
 #define MANUFACTURER_NAME "NXP"
 #define BOARD_DOMAIN_ID (1)
 /* The UART to use for debug messages. */

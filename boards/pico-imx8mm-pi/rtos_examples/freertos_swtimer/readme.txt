@@ -17,7 +17,7 @@ Toolchain supported
 Hardware requirements
 =====================
 - Micro USB cable
-- MIMX8MM6-EVK  board
+- PICO-IMX8MM  board
 - J-Link Debug Probe
 - 12V power supply
 - Personal Computer

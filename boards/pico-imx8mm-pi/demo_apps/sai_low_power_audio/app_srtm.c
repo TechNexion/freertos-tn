@@ -161,9 +161,9 @@ void APP_SRTM_I2C_ReleaseBus(void)
     i2c_release_bus_delay();
 }
 /*
- * Audio board must be powered after the i.MX8MM EVK is powered.
+ * Audio board must be powered after the i.MX8MM PICO-IMX8MM is powered.
  * To achieve this, the power gate of the audio board power is controled by the
- * PORT0_1 pin of the PCA6416APW device on the EVK board.
+ * PORT0_1 pin of the PCA6416APW device on the PICO-IMX8MM board.
  * Therefore, the "APP_SRTM_PowerOnAudioBoard()" would be specially added in this case.
  */
 static void APP_SRTM_PowerOnAudioBoard(void)

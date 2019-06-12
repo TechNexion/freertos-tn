@@ -15,7 +15,7 @@ Toolchain supported
 Hardware requirements
 =====================
 - Micro USB cable
-- MIMX8MM6-EVK  board
+- PICO-IMX8MM  board
 - J-Link Debug Probe
 - 12V power supply
 - Personal Computer
@@ -50,7 +50,7 @@ NOTE
 3.  Since the  DSD files are typically large, users could create a new large size patition in the SD card to place the music files.
 4.  After M4 running, please make sure the linux kernel is boot up, then press "s" or "S" to start the demo.
 5.  If there is no audio playback, the M4 will enter the STOP mode, then the whole system would enter DSM mode once A53 suspend.
-    Press the ON/OFF button on the EVK board, could wakeup A53 core;
+    Press the ON/OFF button on the PICO-IMX8MM board, could wakeup A53 core;
 6.  Please make sure here exists xxx.wav file in the SD card.
     If the music file is placed at the Windows FAT32 paritions, after the linux kernel boot up and logged as root,
     using the "mount /dev/mmcblk1p1 /mnt" and then go to "/mnt" folder to playabck the music using the playback command.
