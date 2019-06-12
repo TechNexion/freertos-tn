@@ -53,7 +53,7 @@
  ******************************************************************************/
 #define DEMO_UART UART2
 #define DEMO_UART_CLK_FREQ  BOARD_DEBUG_UART_CLK_FREQ
-#define DEMO_IRQn UART2_IRQn
+#define DEMO_IRQn UART3_IRQn
 /* Task priorities. */
 #define uart_task_PRIORITY (configMAX_PRIORITIES - 1)
 /*******************************************************************************

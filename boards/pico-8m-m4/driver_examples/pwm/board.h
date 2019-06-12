@@ -45,13 +45,13 @@
 /* The UART to use for debug messages. */
 #define BOARD_DEBUG_UART_TYPE DEBUG_CONSOLE_DEVICE_TYPE_UART
 #define BOARD_DEBUG_UART_BAUDRATE 115200u
-#define BOARD_DEBUG_UART_BASEADDR UART2_BASE
+#define BOARD_DEBUG_UART_BASEADDR UART3_BASE
 #define BOARD_DEBUG_UART_INSTANCE 2U
 #define BOARD_DEBUG_UART_CLK_FREQ                                                          \
-    CLOCK_GetPllFreq(kCLOCK_SystemPll1Ctrl) / (CLOCK_GetRootPreDivider(kCLOCK_RootUart2)) / \
-        (CLOCK_GetRootPostDivider(kCLOCK_RootUart2)) / 10
-#define BOARD_UART_IRQ UART2_IRQn
-#define BOARD_UART_IRQ_HANDLER UART2_IRQHandler
+    CLOCK_GetPllFreq(kCLOCK_SystemPll1Ctrl) / (CLOCK_GetRootPreDivider(kCLOCK_RootUart3)) / \
+        (CLOCK_GetRootPostDivider(kCLOCK_RootUart3)) / 10
+#define BOARD_UART_IRQ UART3_IRQn
+#define BOARD_UART_IRQ_HANDLER UART3_IRQHandler
 
 #if defined(__cplusplus)
 extern "C" {

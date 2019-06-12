@@ -620,7 +620,7 @@
 #define IOMUXC_UART3_RXD_UART1_CTS_B                                  0x30330244, 0x1, 0x303304f0, 0x0, 0x303304ac
 #define IOMUXC_UART3_RXD_GPIO5_IO26                                 0x30330244, 0x5, 0x00000000, 0x0, 0x303304ac
 #define IOMUXC_UART3_RXD_TPSMP_HDATA28                              0x30330244, 0x7, 0x00000000, 0x0, 0x303304ac
-#define IOMUXC_UART3_TXD_UART3_TX                                     0x30330248, 0x0, 0x30330504, 0x3, 0x303304b0
+#define IOMUXC_UART3_TXD_UART3_TX                                     0x30330248, 0x0, 0x00000000, 0x0, 0x303304b0
 #define IOMUXC_UART3_TXD_UART1_RTS_B                                  0x30330248, 0x1, 0x303304f0, 0x1, 0x303304b0
 #define IOMUXC_UART3_TXD_GPIO5_IO27                                 0x30330248, 0x5, 0x00000000, 0x0, 0x303304b0
 #define IOMUXC_UART3_TXD_TPSMP_HDATA29                              0x30330248, 0x7, 0x00000000, 0x0, 0x303304b0

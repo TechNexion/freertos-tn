@@ -49,7 +49,7 @@
 void BOARD_InitDebugConsole(void)
 {
     uint32_t uartClkSrcFreq = BOARD_DEBUG_UART_CLK_FREQ;
-    CLOCK_EnableClock(kCLOCK_Uart2);
+    CLOCK_EnableClock(kCLOCK_Uart3);
     DbgConsole_Init(BOARD_DEBUG_UART_BASEADDR, BOARD_DEBUG_UART_BAUDRATE, DEBUG_CONSOLE_DEVICE_TYPE_IUART, uartClkSrcFreq);
 
 }
