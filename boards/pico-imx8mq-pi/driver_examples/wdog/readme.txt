@@ -9,7 +9,7 @@ WDOG_Init function and the WDOG_Disable function can be called only once after r
 Hardware requirements
 =====================
 - Micro USB cable
-- MIMX8MQ6-EVK  board
+- PICO-IMX8MQ  board
 - J-Link Debug Probe
 - 12V power supply
 - Personal Computer

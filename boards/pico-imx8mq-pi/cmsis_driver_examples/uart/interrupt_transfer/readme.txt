@@ -14,7 +14,7 @@ Note: The example echo every 8 characters, so input 8 characters every time.
 Hardware requirements
 =====================
 - Micro USB cable
-- MIMX8MQ6-EVK  board
+- PICO-IMX8MQ  board
 - J-Link Debug Probe
 - 12V power supply
 - Personal Computer

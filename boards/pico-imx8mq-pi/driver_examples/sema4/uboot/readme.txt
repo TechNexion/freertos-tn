@@ -7,7 +7,7 @@ the uboot runs on the Cortex-A core.
 Hardware requirements
 =====================
 - Micro USB cable
-- MIMX8MQ6-EVK  board
+- PICO-IMX8MQ  board
 - J-Link Debug Probe
 - SD card with uboot
 - 12V power supply
