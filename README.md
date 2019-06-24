@@ -7,19 +7,19 @@ The BSP is based on NXP MCUXpresso SDK `SDK_2.5.0_EVK-MIMX8MM` and `SDK_2.5.1_EV
 #### Support platform: `pico-imx8mq`, `pico-imx8mm`
 
 Download and install toolchain to compile FreeRTOS:
-
->  wget 'wget https://developer.arm.com/-/media/Files/downloads/gnu-rm/7-2018q2/gcc-arm-none-eabi-7-2018-q2-update-linux.tar.bz2'
-
-> tar jxvf gcc-arm-none-eabi-7-2018-q2-update-linux.tar.bz2
-
+```
+wget 'wget https://developer.arm.com/-/media/Files/downloads/gnu-rm/7-2018q2/gcc-arm-none-eabi-7-2018-q2-update-linux.tar.bz2'
+tar jxvf gcc-arm-none-eabi-7-2018-q2-update-linux.tar.bz2
+```
 FreeRTOS relies on cmake to build, so you also need to make sure the following packages are installed on your machine:
 
-> sudo apt-get install make cmake
-
+```
+sudo apt-get install make cmake
+```
 Export the environment of toolchain
-
-> export ARMGCC_DIR=${absolute_path}/gcc-arm-none-eabi-7-2018-q2-update/
-
+```
+export ARMGCC_DIR=${absolute_path}/gcc-arm-none-eabi-7-2018-q2-update/
+```
 Then, you can start to build the example you would like to run.
 
 ![Build_and_run_examples](https://github.com/TechNexion/freertos-tn/wiki/Build_and_run_example)
