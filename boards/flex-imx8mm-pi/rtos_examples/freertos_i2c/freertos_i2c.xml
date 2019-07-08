@@ -24,7 +24,7 @@
     <definition extID="mcuxpresso"/>
     <definition extID="armgcc"/>
   </externalDefinitions>
-  <example id="evkmimx8mm_freertos_i2c" name="freertos_i2c" category="rtos_examples" dependency="platform.drivers.ii2c.MIMX8MM6 platform.drivers.ii2c_freertos.MIMX8MM6 middleware.freertos.MIMX8MM6 platform.drivers.clock.MIMX8MM6 platform.drivers.common.MIMX8MM6 platform.drivers.rdc.MIMX8MM6 platform.devices.MIMX8MM6_CMSIS.MIMX8MM6 platform.utilities.debug_console.MIMX8MM6 component.iuart_adapter.MIMX8MM6 platform.drivers.iuart.MIMX8MM6 component.serial_manager.MIMX8MM6 component.serial_manager_uart.MIMX8MM6 component.lists.MIMX8MM6 platform.devices.MIMX8MM6_startup.MIMX8MM6 platform.utilities.assert.MIMX8MM6 middleware.freertos.heap.heap_4.MIMX8MM6" toolchain="iar armgcc">
+  <example id="flex-imx8mm-pi_freertos_i2c" name="freertos_i2c" category="rtos_examples" dependency="platform.drivers.ii2c.MIMX8MM6 platform.drivers.ii2c_freertos.MIMX8MM6 middleware.freertos.MIMX8MM6 platform.drivers.clock.MIMX8MM6 platform.drivers.common.MIMX8MM6 platform.drivers.rdc.MIMX8MM6 platform.devices.MIMX8MM6_CMSIS.MIMX8MM6 platform.utilities.debug_console.MIMX8MM6 component.iuart_adapter.MIMX8MM6 platform.drivers.iuart.MIMX8MM6 component.serial_manager.MIMX8MM6 component.serial_manager_uart.MIMX8MM6 component.lists.MIMX8MM6 platform.devices.MIMX8MM6_startup.MIMX8MM6 platform.utilities.assert.MIMX8MM6 middleware.freertos.heap.heap_4.MIMX8MM6" toolchain="iar armgcc">
     <projects>
       <project type="com.crt.advproject.projecttype.exe" nature="org.eclipse.cdt.core.cnature"/>
     </projects>
@@ -63,28 +63,28 @@
         </option>
       </toolchainSetting>
     </toolchainSettings>
-    <source path="boards/evkmimx8mm/rtos_examples/freertos_i2c" target_path="board/src" type="c_include">
+    <source path="boards/flex-imx8mm-pi/rtos_examples/freertos_i2c" target_path="board/src" type="c_include">
       <files mask="board.h"/>
       <files mask="clock_config.h"/>
       <files mask="fsl_iomuxc.h"/>
     </source>
-    <source path="boards/evkmimx8mm/rtos_examples/freertos_i2c" target_path="board/src" type="src">
+    <source path="boards/flex-imx8mm-pi/rtos_examples/freertos_i2c" target_path="board/src" type="src">
       <files mask="board.c"/>
       <files mask="clock_config.c"/>
     </source>
-    <source path="boards/evkmimx8mm/rtos_examples/freertos_i2c" target_path="board" type="c_include">
+    <source path="boards/flex-imx8mm-pi/rtos_examples/freertos_i2c" target_path="board" type="c_include">
       <files mask="pin_mux.h"/>
     </source>
-    <source path="boards/evkmimx8mm/rtos_examples/freertos_i2c" target_path="board" type="src">
+    <source path="boards/flex-imx8mm-pi/rtos_examples/freertos_i2c" target_path="board" type="src">
       <files mask="pin_mux.c"/>
     </source>
-    <source path="boards/evkmimx8mm/rtos_examples/freertos_i2c" target_path="doc" type="doc" toolchain="iar mdk atl mcuxpresso">
+    <source path="boards/flex-imx8mm-pi/rtos_examples/freertos_i2c" target_path="doc" type="doc" toolchain="iar mdk atl mcuxpresso">
       <files mask="readme.txt"/>
     </source>
-    <source path="boards/evkmimx8mm/rtos_examples/freertos_i2c" target_path="source" type="c_include">
+    <source path="boards/flex-imx8mm-pi/rtos_examples/freertos_i2c" target_path="source" type="c_include">
       <files mask="FreeRTOSConfig.h"/>
     </source>
-    <source path="boards/evkmimx8mm/rtos_examples/freertos_i2c" target_path="source" type="src">
+    <source path="boards/flex-imx8mm-pi/rtos_examples/freertos_i2c" target_path="source" type="src">
       <files mask="freertos_i2c.c"/>
     </source>
   </example>
