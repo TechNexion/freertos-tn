@@ -12,7 +12,7 @@ Toolchain supported
 Hardware requirements
 =====================
 - Micro USB cable
-- MIMX8MM6-EVK  board
+- FLEX-IMX8MM  board
 - J-Link Debug Probe
 - 12V power supply
 - Personal Computer
@@ -20,7 +20,7 @@ Hardware requirements
 
 Board settings
 ==============
-Connect microphone to EVK board:
+Connect microphone to FLEX-IMX8MM board:
 3V->J1003-1
 GND->J1003-6
 CLK->J1003-40
