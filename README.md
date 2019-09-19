@@ -26,4 +26,4 @@ Then, you can start to build the example you would like to run.
 
 Please refer to more information in NXP document:
 
-> docs/Getting Started with MCUXpresso SDK.pdf
+> docs/[Getting Started with MCUXpresso SDK.pdf](https://github.com/TechNexion/freertos-tn/tree/freertos_2.5.x_imx8/docs)
