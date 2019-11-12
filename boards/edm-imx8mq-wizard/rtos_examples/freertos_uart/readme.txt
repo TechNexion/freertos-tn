@@ -6,7 +6,7 @@ After every 4B received, these are sent back on UART.
 Hardware requirements
 =====================
 - Micro USB cable
-- MIMX8MQ6-EVK  board
+- EDM-IMX8MQ  board
 - J-Link Debug Probe
 - 12V power supply
 - Personal Computer

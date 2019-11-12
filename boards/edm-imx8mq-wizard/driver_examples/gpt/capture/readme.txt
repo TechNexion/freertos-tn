@@ -6,7 +6,7 @@ this example will print the capture value.
 Hardware requirements
 =====================
 - Micro USB cable
-- MIMX8MQ6-EVK  board
+- EDM-IMX8MQ  board
 - J-Link Debug Probe
 - 12V power supply
 - Personal Computer

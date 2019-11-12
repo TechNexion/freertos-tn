@@ -17,7 +17,7 @@ write_task_2 print 5 messages into log.
 Hardware requirements
 =====================
 - Micro USB cable
-- MIMX8MQ6-EVK  board
+- EDM-IMX8MQ  board
 - J-Link Debug Probe
 - 12V power supply
 - Personal Computer
