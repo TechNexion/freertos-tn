@@ -42,8 +42,8 @@ void BOARD_InitBootPins(void)
 BOARD_InitPins:
 - options: {coreID: m4}
 - pin_list:
-  - {pin_num: B6, peripheral: UART2, signal: uart_rx, pin_signal: UART2_RXD, PUE: Enabled, SRE: MEDIUM, DSE: OHM_45}
-  - {pin_num: D6, peripheral: UART2, signal: uart_tx, pin_signal: UART2_TXD, PUE: Enabled, SRE: MEDIUM, DSE: OHM_45}
+  - {pin_num: C5, peripheral: UART4, signal: uart_rx, pin_signal: UART4_RXD, PUE: Enabled, SRE: MEDIUM, DSE: OHM_45}
+  - {pin_num: E5, peripheral: UART4, signal: uart_tx, pin_signal: UART4_TXD, PUE: Enabled, SRE: MEDIUM, DSE: OHM_45}
   - {pin_num: H5, peripheral: SAI2, signal: sai_mclk, pin_signal: SAI2_MCLK, SION: DISABLED, HYS: Enabled, SRE: MEDIUM, DSE: OHM_105}
   - {pin_num: J5, peripheral: SAI2, signal: sai_tx_bclk, pin_signal: SAI2_TXC, HYS: Enabled, SRE: MEDIUM, DSE: OHM_105}
   - {pin_num: G5, peripheral: SAI2, signal: 'sai_tx_data, 0', pin_signal: SAI2_TXD0, HYS: Enabled, SRE: MEDIUM, DSE: OHM_105}
@@ -79,13 +79,13 @@ void BOARD_InitPins(void) {                                /*!< Function assigne
                         IOMUXC_SW_PAD_CTL_PAD_DSE(2U) |
                         IOMUXC_SW_PAD_CTL_PAD_SRE(1U) |
                         IOMUXC_SW_PAD_CTL_PAD_HYS_MASK);
-    IOMUXC_SetPinMux(IOMUXC_UART2_RXD_UART2_RX, 0U);
-    IOMUXC_SetPinConfig(IOMUXC_UART2_RXD_UART2_RX, 
+    IOMUXC_SetPinMux(IOMUXC_ECSPI2_SCLK_UART4_RX, 0U);
+    IOMUXC_SetPinConfig(IOMUXC_ECSPI2_SCLK_UART4_RX, 
                         IOMUXC_SW_PAD_CTL_PAD_DSE(6U) |
                         IOMUXC_SW_PAD_CTL_PAD_SRE(1U) |
                         IOMUXC_SW_PAD_CTL_PAD_PUE_MASK);
-    IOMUXC_SetPinMux(IOMUXC_UART2_TXD_UART2_TX, 0U);
-    IOMUXC_SetPinConfig(IOMUXC_UART2_TXD_UART2_TX, 
+    IOMUXC_SetPinMux(IOMUXC_ECSPI2_MOSI_UART4_TX, 0U);
+    IOMUXC_SetPinConfig(IOMUXC_ECSPI2_MOSI_UART4_TX, 
                         IOMUXC_SW_PAD_CTL_PAD_DSE(6U) |
                         IOMUXC_SW_PAD_CTL_PAD_SRE(1U) |
                         IOMUXC_SW_PAD_CTL_PAD_PUE_MASK);

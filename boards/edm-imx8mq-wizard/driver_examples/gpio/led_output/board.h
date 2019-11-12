@@ -19,13 +19,13 @@
 /* The UART to use for debug messages. */
 #define BOARD_DEBUG_UART_TYPE kSerialPort_Uart
 #define BOARD_DEBUG_UART_BAUDRATE 115200u
-#define BOARD_DEBUG_UART_BASEADDR UART2_BASE
-#define BOARD_DEBUG_UART_INSTANCE 2U
+#define BOARD_DEBUG_UART_BASEADDR UART4_BASE
+#define BOARD_DEBUG_UART_INSTANCE 4U
 #define BOARD_DEBUG_UART_CLK_FREQ                                                           \
-    CLOCK_GetPllFreq(kCLOCK_SystemPll1Ctrl) / (CLOCK_GetRootPreDivider(kCLOCK_RootUart2)) / \
-        (CLOCK_GetRootPostDivider(kCLOCK_RootUart2)) / 10
-#define BOARD_UART_IRQ UART2_IRQn
-#define BOARD_UART_IRQ_HANDLER UART2_IRQHandler
+    CLOCK_GetPllFreq(kCLOCK_SystemPll1Ctrl) / (CLOCK_GetRootPreDivider(kCLOCK_RootUart4)) / \
+        (CLOCK_GetRootPostDivider(kCLOCK_RootUart4)) / 10
+#define BOARD_UART_IRQ UART4_IRQn
+#define BOARD_UART_IRQ_HANDLER UART4_IRQHandler
 
 #if defined(__cplusplus)
 extern "C" {
