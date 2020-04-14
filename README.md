@@ -4,7 +4,7 @@ The FreeRTOS BSP is for NXP’s i.MX8 SOC family with ARM Cortex-M4 core.
 The BSP is based on NXP MCUXpresso SDK `SDK_2.5.0_EVK-MIMX8MM` and `SDK_2.5.1_EVK-MIMX8MQ`.
 
 
-#### Support platform: `pico-imx8mq`, `edm-imx8mq`, `pico-imx8mm`, `flex-imx8mm`
+#### Support platform: `pico-imx8mq`, `edm-imx8mq`, `pico-imx8mm`, `flex-imx8mm`, `xore-imx8mm`
 
 Download and install toolchain to compile FreeRTOS:
 ```
