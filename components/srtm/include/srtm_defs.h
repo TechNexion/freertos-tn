@@ -22,14 +22,14 @@
  * Definitions
  ******************************************************************************/
 /*! @brief Defines SRTM major version */
-#define SRTM_VERSION_MAJOR (0x01U)
+#define SRTM_VERSION_MAJOR (0x01UL)
 /*! @brief Defines SRTM minor version */
-#define SRTM_VERSION_MINOR (0x00U)
+#define SRTM_VERSION_MINOR (0x00UL)
 /*! @brief Defines SRTM bugfix version */
-#define SRTM_VERSION_BUGFIX (0x00U)
+#define SRTM_VERSION_BUGFIX (0x00UL)
 
 /*! @brief SRTM version definition */
-#define SRTM_MAKE_VERSION(major, minor, bugfix) (((major) << 16) | ((minor) << 8) | (bugfix))
+#define SRTM_MAKE_VERSION(major, minor, bugfix) ((((uint32_t)major) << 16) | (((uint32_t)minor) << 8) | (bugfix))
 
 /* IAR ARM build tools */
 #if defined(__ICCARM__)
@@ -106,14 +106,14 @@ extern int SRTM_DEBUG_MESSAGE_FUNC(const char *fmt_s, ...);
 #define SRTM_DEBUG_VERBOSE_LEVEL SRTM_DEBUG_VERBOSE_WARN
 #endif
 
-#define SRTM_DEBUG_MESSAGE(verbose, ...)           \
-    do                                             \
-    {                                              \
-        if ((verbose) <= SRTM_DEBUG_VERBOSE_LEVEL) \
-        {                                          \
-            SRTM_DEBUG_MESSAGE_FUNC(__VA_ARGS__);  \
-        }                                          \
-    } while (false)
+#define SRTM_DEBUG_MESSAGE(verbose, ...)                \
+    do                                                  \
+    {                                                   \
+        if ((verbose) <= SRTM_DEBUG_VERBOSE_LEVEL)      \
+        {                                               \
+            (void)SRTM_DEBUG_MESSAGE_FUNC(__VA_ARGS__); \
+        }                                               \
+    } while ((bool)false)
 #else
 #define SRTM_DEBUG_MESSAGE(verbose, format, ...)
 #endif
