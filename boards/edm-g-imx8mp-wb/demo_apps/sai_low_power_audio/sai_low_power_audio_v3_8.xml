@@ -42,7 +42,7 @@
     <definition extID="com.nxp.mcuxpresso"/>
     <definition extID="mdk"/>
   </externalDefinitions>
-  <example id="evkmimx8mp_sai_low_power_audio" name="sai_low_power_audio" dependency="platform.drivers.igpio.MIMX8ML8 platform.drivers.ii2c.MIMX8ML8 platform.drivers.gpt.MIMX8ML8 platform.drivers.gpc_2.MIMX8ML8 platform.drivers.clock.MIMX8ML8 platform.drivers.sai.MIMX8ML8 platform.drivers.sai_sdma.MIMX8ML8 platform.drivers.common.MIMX8ML8 platform.drivers.rdc.MIMX8ML8 platform.drivers.audiomix.MIMX8ML8 device.MIMX8ML8_CMSIS.MIMX8ML8 utility.debug_console.MIMX8ML8 component.iuart_adapter.MIMX8ML8 component.serial_manager.MIMX8ML8 component.lists.MIMX8ML8 component.serial_manager_uart.MIMX8ML8 platform.drivers.iuart.MIMX8ML8 device.MIMX8ML8_startup.MIMX8ML8 platform.utilities.assert.MIMX8ML8 platform.Include_core_cm7.MIMX8ML8 platform.Include_common.MIMX8ML8 platform.Include_dsp.MIMX8ML8 platform.drivers.sdma.MIMX8ML8 platform.drivers.memory.MIMX8ML8 platform.drivers.mu.MIMX8ML8 driver.srtm.freertos.MIMX8ML8 driver.srtm.MIMX8ML8 middleware.multicore.rpmsg_lite.imx8mp_m7_freertos.MIMX8ML8 middleware.multicore.rpmsg_lite.MIMX8ML8 middleware.freertos-kernel.MIMX8ML8 middleware.freertos-kernel.extension.MIMX8ML8 middleware.freertos-kernel.heap_4.MIMX8ML8 platform.utilities.misc_utilities.MIMX8ML8 device.MIMX8ML8_system.MIMX8ML8" category="demo_apps">
+  <example id="edm-g-imx8mp-wb_sai_low_power_audio" name="sai_low_power_audio" dependency="platform.drivers.igpio.MIMX8ML8 platform.drivers.ii2c.MIMX8ML8 platform.drivers.gpt.MIMX8ML8 platform.drivers.gpc_2.MIMX8ML8 platform.drivers.clock.MIMX8ML8 platform.drivers.sai.MIMX8ML8 platform.drivers.sai_sdma.MIMX8ML8 platform.drivers.common.MIMX8ML8 platform.drivers.rdc.MIMX8ML8 platform.drivers.audiomix.MIMX8ML8 device.MIMX8ML8_CMSIS.MIMX8ML8 utility.debug_console.MIMX8ML8 component.iuart_adapter.MIMX8ML8 component.serial_manager.MIMX8ML8 component.lists.MIMX8ML8 component.serial_manager_uart.MIMX8ML8 platform.drivers.iuart.MIMX8ML8 device.MIMX8ML8_startup.MIMX8ML8 platform.utilities.assert.MIMX8ML8 platform.Include_core_cm7.MIMX8ML8 platform.Include_common.MIMX8ML8 platform.Include_dsp.MIMX8ML8 platform.drivers.sdma.MIMX8ML8 platform.drivers.memory.MIMX8ML8 platform.drivers.mu.MIMX8ML8 driver.srtm.freertos.MIMX8ML8 driver.srtm.MIMX8ML8 middleware.multicore.rpmsg_lite.imx8mp_m7_freertos.MIMX8ML8 middleware.multicore.rpmsg_lite.MIMX8ML8 middleware.freertos-kernel.MIMX8ML8 middleware.freertos-kernel.extension.MIMX8ML8 middleware.freertos-kernel.heap_4.MIMX8ML8 platform.utilities.misc_utilities.MIMX8ML8 device.MIMX8ML8_system.MIMX8ML8" category="demo_apps">
     <projects>
       <project type="com.crt.advproject.projecttype.exe" nature="org.eclipse.cdt.core.cnature"/>
     </projects>
@@ -82,22 +82,22 @@
       </toolchainSetting>
     </toolchainSettings>
     <include_paths>
-      <include_path path="boards/evkmimx8mp/demo_apps/sai_low_power_audio" project_relative_path="source" type="c_include"/>
-      <include_path path="boards/evkmimx8mp" project_relative_path="source" type="c_include"/>
-      <include_path path="boards/evkmimx8mp/demo_apps/sai_low_power_audio" project_relative_path="board" type="c_include"/>
-      <include_path path="boards/evkmimx8mp/demo_apps/sai_low_power_audio" project_relative_path="remoteproc" type="c_include"/>
-      <include_path path="boards/evkmimx8mp/demo_apps/sai_low_power_audio" project_relative_path="evkmimx8mp/demo_apps/sai_low_power_audio" type="c_include"/>
+      <include_path path="boards/edm-g-imx8mp-wb/demo_apps/sai_low_power_audio" project_relative_path="source" type="c_include"/>
+      <include_path path="boards/edm-g-imx8mp-wb" project_relative_path="source" type="c_include"/>
+      <include_path path="boards/edm-g-imx8mp-wb/demo_apps/sai_low_power_audio" project_relative_path="board" type="c_include"/>
+      <include_path path="boards/edm-g-imx8mp-wb/demo_apps/sai_low_power_audio" project_relative_path="remoteproc" type="c_include"/>
+      <include_path path="boards/edm-g-imx8mp-wb/demo_apps/sai_low_power_audio" project_relative_path="edm-g-imx8mp-wb/demo_apps/sai_low_power_audio" type="c_include"/>
       <include_path path="components/srtm/channels" project_relative_path="srtm/channels" type="c_include"/>
       <include_path path="components/srtm/services" project_relative_path="srtm/services" type="c_include"/>
-      <include_path path="boards/evkmimx8mp/demo_apps/sai_low_power_audio" project_relative_path="source" type="asm_include"/>
-      <include_path path="boards/evkmimx8mp" project_relative_path="source" type="asm_include"/>
+      <include_path path="boards/edm-g-imx8mp-wb/demo_apps/sai_low_power_audio" project_relative_path="source" type="asm_include"/>
+      <include_path path="boards/edm-g-imx8mp-wb" project_relative_path="source" type="asm_include"/>
     </include_paths>
-    <source path="boards/evkmimx8mp/demo_apps/sai_low_power_audio/iar" project_relative_path="./" type="workspace" toolchain="iar">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/sai_low_power_audio/iar" project_relative_path="./" type="workspace" toolchain="iar">
       <files mask="sai_low_power_audio.ewp"/>
       <files mask="sai_low_power_audio.ewd"/>
       <files mask="sai_low_power_audio.eww"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/sai_low_power_audio/armgcc" project_relative_path="./" type="workspace" toolchain="armgcc">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/sai_low_power_audio/armgcc" project_relative_path="./" type="workspace" toolchain="armgcc">
       <files mask="build_all.bat"/>
       <files mask="build_all.sh"/>
       <files mask="clean.bat"/>
@@ -110,58 +110,58 @@
       <files mask="build_release.bat"/>
       <files mask="build_release.sh"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/sai_low_power_audio" project_relative_path="source" type="src">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/sai_low_power_audio" project_relative_path="source" type="src">
       <files mask="app_srtm.c"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/sai_low_power_audio" project_relative_path="source" type="c_include">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/sai_low_power_audio" project_relative_path="source" type="c_include">
       <files mask="app_srtm.h"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/sai_low_power_audio" project_relative_path="source" type="c_include">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/sai_low_power_audio" project_relative_path="source" type="c_include">
       <files mask="FreeRTOSConfig.h"/>
       <files mask="rpmsg_config.h"/>
       <files mask="lpm.h"/>
       <files mask="sai_low_power_audio.h"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/sai_low_power_audio" project_relative_path="source" type="src">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/sai_low_power_audio" project_relative_path="source" type="src">
       <files mask="lpm.c"/>
       <files mask="sai_low_power_audio.c"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/sai_low_power_audio/armgcc" project_relative_path="evkmimx8mp/gcc" type="linker" toolchain="armgcc">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/sai_low_power_audio/armgcc" project_relative_path="edm-g-imx8mp-wb/gcc" type="linker" toolchain="armgcc">
       <files mask="MIMX8ML8xxxxx_cm7_lpa_ram.ld"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/sai_low_power_audio/iar" project_relative_path="evkmimx8mp/iar" type="linker" toolchain="iar">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/sai_low_power_audio/iar" project_relative_path="edm-g-imx8mp-wb/iar" type="linker" toolchain="iar">
       <files mask="MIMX8ML8xxxxx_cm7_lpa_ram.icf"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/sai_low_power_audio" project_relative_path="board" type="src">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/sai_low_power_audio" project_relative_path="board" type="src">
       <files mask="pin_mux.c"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/sai_low_power_audio" project_relative_path="board" type="c_include">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/sai_low_power_audio" project_relative_path="board" type="c_include">
       <files mask="pin_mux.h"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/sai_low_power_audio" project_relative_path="remoteproc" type="src">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/sai_low_power_audio" project_relative_path="remoteproc" type="src">
       <files mask="rsc_table.c"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/sai_low_power_audio" project_relative_path="remoteproc" type="c_include">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/sai_low_power_audio" project_relative_path="remoteproc" type="c_include">
       <files mask="rsc_table.h"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/sai_low_power_audio" project_relative_path="remoteproc" type="c_include">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/sai_low_power_audio" project_relative_path="remoteproc" type="c_include">
       <files mask="remoteproc.h"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/sai_low_power_audio" project_relative_path="evkmimx8mp/demo_apps/sai_low_power_audio" type="binary">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/sai_low_power_audio" project_relative_path="edm-g-imx8mp-wb/demo_apps/sai_low_power_audio" type="binary">
       <files mask="sai_low_power_audio.bin" hidden="true"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/sai_low_power_audio" project_relative_path="board" type="src">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/sai_low_power_audio" project_relative_path="board" type="src">
       <files mask="board.c"/>
       <files mask="clock_config.c"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/sai_low_power_audio" project_relative_path="board" type="c_include">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/sai_low_power_audio" project_relative_path="board" type="c_include">
       <files mask="board.h"/>
       <files mask="clock_config.h"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/sai_low_power_audio" project_relative_path="board" type="c_include">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/sai_low_power_audio" project_relative_path="board" type="c_include">
       <files mask="fsl_iomuxc.h"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/sai_low_power_audio" project_relative_path="doc" type="doc" toolchain="iar mdk armgcc">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/sai_low_power_audio" project_relative_path="doc" type="doc" toolchain="iar mdk armgcc">
       <files mask="readme.txt"/>
     </source>
     <source path="components/srtm/channels" project_relative_path="srtm/channels" type="c_include">

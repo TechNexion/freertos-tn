@@ -26,7 +26,7 @@
     <definition extID="com.nxp.mcuxpresso"/>
     <definition extID="mdk"/>
   </externalDefinitions>
-  <example id="evkmimx8mp_hello_world" name="hello_world" dependency="platform.drivers.clock.MIMX8ML8 platform.drivers.common.MIMX8ML8 platform.drivers.rdc.MIMX8ML8 platform.drivers.audiomix.MIMX8ML8 device.MIMX8ML8_CMSIS.MIMX8ML8 utility.debug_console.MIMX8ML8 component.iuart_adapter.MIMX8ML8 component.serial_manager.MIMX8ML8 component.lists.MIMX8ML8 component.serial_manager_uart.MIMX8ML8 platform.drivers.iuart.MIMX8ML8 device.MIMX8ML8_startup.MIMX8ML8 platform.utilities.assert.MIMX8ML8 platform.utilities.misc_utilities.MIMX8ML8 platform.Include_core_cm7.MIMX8ML8 platform.Include_common.MIMX8ML8 platform.Include_dsp.MIMX8ML8 device.MIMX8ML8_system.MIMX8ML8" category="demo_apps">
+  <example id="edm-g-imx8mp-wb_hello_world" name="hello_world" dependency="platform.drivers.clock.MIMX8ML8 platform.drivers.common.MIMX8ML8 platform.drivers.rdc.MIMX8ML8 platform.drivers.audiomix.MIMX8ML8 device.MIMX8ML8_CMSIS.MIMX8ML8 utility.debug_console.MIMX8ML8 component.iuart_adapter.MIMX8ML8 component.serial_manager.MIMX8ML8 component.lists.MIMX8ML8 component.serial_manager_uart.MIMX8ML8 platform.drivers.iuart.MIMX8ML8 device.MIMX8ML8_startup.MIMX8ML8 platform.utilities.assert.MIMX8ML8 platform.utilities.misc_utilities.MIMX8ML8 platform.Include_core_cm7.MIMX8ML8 platform.Include_common.MIMX8ML8 platform.Include_dsp.MIMX8ML8 device.MIMX8ML8_system.MIMX8ML8" category="demo_apps">
     <projects>
       <project type="com.crt.advproject.projecttype.exe" nature="org.eclipse.cdt.core.cnature"/>
     </projects>
@@ -66,7 +66,7 @@
         </option>
       </toolchainSetting>
     </toolchainSettings>
-    <source path="boards/evkmimx8mp/demo_apps/hello_world/armgcc" target_path="src" type="workspace" toolchain="armgcc">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/hello_world/armgcc" target_path="src" type="workspace" toolchain="armgcc">
       <files mask="build_all.bat"/>
       <files mask="build_all.sh"/>
       <files mask="clean.bat"/>
@@ -87,48 +87,48 @@
       <files mask="build_flash_release.bat"/>
       <files mask="build_flash_release.sh"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/hello_world/iar" target_path="src" type="workspace" toolchain="iar">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/hello_world/iar" target_path="src" type="workspace" toolchain="iar">
       <files mask="hello_world.ewp"/>
       <files mask="hello_world.ewd"/>
       <files mask="hello_world.eww"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/hello_world" target_path="source" type="src">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/hello_world" target_path="source" type="src">
       <files mask="hello_world.c"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/hello_world" target_path="board" type="src">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/hello_world" target_path="board" type="src">
       <files mask="pin_mux.c"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/hello_world" target_path="board" type="c_include">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/hello_world" target_path="board" type="c_include">
       <files mask="pin_mux.h"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/hello_world" target_path="evkmimx8mp/demo_apps/hello_world" type="binary">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/hello_world" target_path="edm-g-imx8mp-wb/demo_apps/hello_world" type="binary">
       <files mask="hello_world.bin" hidden="true"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/hello_world" target_path="board" type="src">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/hello_world" target_path="board" type="src">
       <files mask="board.c"/>
       <files mask="clock_config.c"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/hello_world" target_path="board" type="c_include">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/hello_world" target_path="board" type="c_include">
       <files mask="board.h"/>
       <files mask="clock_config.h"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/hello_world" target_path="board" type="c_include">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/hello_world" target_path="board" type="c_include">
       <files mask="fsl_iomuxc.h"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/hello_world" target_path="doc" type="doc" toolchain="iar mdk armgcc">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/hello_world" target_path="doc" type="doc" toolchain="iar mdk armgcc">
       <files mask="readme.txt"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/hello_world/iar" target_path="MIMX8ML8/iar" type="linker" toolchain="iar">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/hello_world/iar" target_path="MIMX8ML8/iar" type="linker" toolchain="iar">
       <files mask="MIMX8ML8xxxxx_cm7_ram.icf"/>
       <files mask="MIMX8ML8xxxxx_cm7_ddr_ram.icf"/>
       <files mask="MIMX8ML8xxxxx_cm7_flash.icf"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/hello_world/armgcc" target_path="MIMX8ML8/gcc" type="linker" toolchain="armgcc">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/hello_world/armgcc" target_path="MIMX8ML8/gcc" type="linker" toolchain="armgcc">
       <files mask="MIMX8ML8xxxxx_cm7_ram.ld"/>
       <files mask="MIMX8ML8xxxxx_cm7_ddr_ram.ld"/>
       <files mask="MIMX8ML8xxxxx_cm7_flash.ld"/>
     </source>
-    <source path="boards/evkmimx8mp/demo_apps/hello_world" target_path="remoteproc" type="src">
+    <source path="boards/edm-g-imx8mp-wb/demo_apps/hello_world" target_path="remoteproc" type="src">
       <files mask="empty_rsc_table.c"/>
     </source>
   </example>
