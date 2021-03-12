@@ -31,8 +31,8 @@
 #define BOARD_GPC_BASEADDR GPC
 #define BOARD_MU_IRQ       MU1_M7_IRQn
 
-#define BOARD_CODEC_I2C            I2C3
-#define BOARD_CODEC_I2C_INSTANCE   (3U)
+#define BOARD_CODEC_I2C            I2C2
+#define BOARD_CODEC_I2C_INSTANCE   (2U)
 #define BOARD_CODEC_I2C_CLOCK_FREQ (16000000U)
 
 /* Shared memory base for RPMsg communication. */

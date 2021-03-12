@@ -24,9 +24,9 @@
  ******************************************************************************/
 #define RDC_DISABLE_A53_ACCESS 0xFC
 #define I2C_RELEASE_SDA_GPIO   GPIO5
-#define I2C_RELEASE_SDA_PIN    19U
+#define I2C_RELEASE_SDA_PIN    17U
 #define I2C_RELEASE_SCL_GPIO   GPIO5
-#define I2C_RELEASE_SCL_PIN    18U
+#define I2C_RELEASE_SCL_PIN    16U
 #define I2C_RELEASE_BUS_COUNT  100U
 #define RDC_DISABLE_M7_ACCESS  0xF3
 static LPM_POWER_STATUS_M7 m7_lpm_state = LPM_M7_STATE_RUN;
@@ -67,7 +67,7 @@ void BOARD_PeripheralRdcSetting(void)
     RDC_SetPeriphAccessConfig(RDC, &periphConfig);
     periphConfig.periph = kRDC_Periph_SDMA3;
     RDC_SetPeriphAccessConfig(RDC, &periphConfig);
-    periphConfig.periph = kRDC_Periph_I2C3;
+    periphConfig.periph = kRDC_Periph_I2C2;
     RDC_SetPeriphAccessConfig(RDC, &periphConfig);
 }
 
@@ -85,11 +85,11 @@ void BOARD_I2C_ReleaseBus(void)
     uint8_t i                    = 0;
     gpio_pin_config_t pin_config = {kGPIO_DigitalOutput, 1, kGPIO_NoIntmode};
 
-    IOMUXC_SetPinMux(IOMUXC_I2C3_SCL_GPIO5_IO18, 0U);
-    IOMUXC_SetPinConfig(IOMUXC_I2C3_SCL_GPIO5_IO18, IOMUXC_SW_PAD_CTL_PAD_DSE(3U) | IOMUXC_SW_PAD_CTL_PAD_FSEL_MASK |
+    IOMUXC_SetPinMux(IOMUXC_I2C2_SCL_GPIO5_IO16, 0U);
+    IOMUXC_SetPinConfig(IOMUXC_I2C2_SCL_GPIO5_IO16, IOMUXC_SW_PAD_CTL_PAD_DSE(3U) | IOMUXC_SW_PAD_CTL_PAD_FSEL_MASK |
                                                         IOMUXC_SW_PAD_CTL_PAD_HYS_MASK);
-    IOMUXC_SetPinMux(IOMUXC_I2C3_SDA_GPIO5_IO19, 0U);
-    IOMUXC_SetPinConfig(IOMUXC_I2C3_SDA_GPIO5_IO19, IOMUXC_SW_PAD_CTL_PAD_DSE(3U) | IOMUXC_SW_PAD_CTL_PAD_FSEL_MASK |
+    IOMUXC_SetPinMux(IOMUXC_I2C2_SDA_GPIO5_IO17, 0U);
+    IOMUXC_SetPinConfig(IOMUXC_I2C2_SDA_GPIO5_IO17, IOMUXC_SW_PAD_CTL_PAD_DSE(3U) | IOMUXC_SW_PAD_CTL_PAD_FSEL_MASK |
                                                         IOMUXC_SW_PAD_CTL_PAD_HYS_MASK);
     GPIO_PinInit(I2C_RELEASE_SCL_GPIO, I2C_RELEASE_SCL_PIN, &pin_config);
     GPIO_PinInit(I2C_RELEASE_SDA_GPIO, I2C_RELEASE_SDA_PIN, &pin_config);
@@ -326,8 +326,8 @@ int main(void)
 
     CLOCK_SetRootMux(kCLOCK_RootSai3, kCLOCK_SaiRootmuxAudioPll1); /* Set SAI source to AUDIO PLL1 393216000HZ*/
     CLOCK_SetRootDivider(kCLOCK_RootSai3, 1U, 32U);                /* Set root clock to 393216000HZ / 32 = 12.288MHz */
-    CLOCK_SetRootMux(kCLOCK_RootI2c3, kCLOCK_I2cRootmuxSysPll1Div5); /* Set I2C source to SysPLL1 Div5 160MHZ */
-    CLOCK_SetRootDivider(kCLOCK_RootI2c3, 1U, 10U);                  /* Set root clock to 160MHZ / 10 = 16MHZ */
+    CLOCK_SetRootMux(kCLOCK_RootI2c2, kCLOCK_I2cRootmuxSysPll1Div5); /* Set I2C source to SysPLL1 Div5 160MHZ */
+    CLOCK_SetRootDivider(kCLOCK_RootI2c2, 1U, 10U);                  /* Set root clock to 160MHZ / 10 = 16MHZ */
     CLOCK_SetRootMux(kCLOCK_RootGpt1, kCLOCK_GptRootmuxOsc24M);      /* Set GPT source to Osc24 MHZ */
     CLOCK_SetRootDivider(kCLOCK_RootGpt1, 1U, 1U);
     /* Enable the Audio clock on M7 side to make sure the AUDIOMIX domain clock on

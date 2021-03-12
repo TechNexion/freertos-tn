@@ -111,8 +111,8 @@ void BOARD_InitMemory(void)
     MPU->RASR = ARM_MPU_RASR(0, ARM_MPU_AP_FULL, 1, 0, 0, 0, 0, ARM_MPU_REGION_SIZE_1GB);
 
     /*
-       Non-cacheable area is provided in DDR memory, the DDR region [0x80000000 ~ 0x81000000](please see the
-       imx8mp-evk-rpmsg.dts) totally 16MB is revserved for CM7 core. You can put global or static uninitialized
+       Non-cacheable area is provided in DDR memory, the DDR region [0x6F000000 ~ 0x70000000](please see the
+       imx8mp-edm-g-wb-rpmsg.dts) totally 16MB is revserved for CM7 core. You can put global or static uninitialized
        variables in NonCacheable section(initialized variables in NonCacheable.init section) to make them uncacheable.
        Since the base address of MPU region should be multiples of region size, to make it simple, the MPU region 5 set
        the address space 0x80000000 ~ 0xBFFFFFFF to be non-cacheable. Then MPU region 6 set the text and data section to

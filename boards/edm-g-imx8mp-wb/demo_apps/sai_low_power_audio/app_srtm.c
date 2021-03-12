@@ -91,8 +91,8 @@ TimerHandle_t linkupTimer;
 srtm_sai_adapter_t saiAdapter;
 static struct _i2c_bus i2c_buses[] = {
     {
-        .bus_id         = 2,
-        .base_addr      = I2C3_BASE,
+        .bus_id         = 1,
+        .base_addr      = I2C2_BASE,
         .type           = SRTM_I2C_TYPE_I2C,
         .switch_idx     = APP_I2C_SWITCH_NONE,
         .switch_channel = SRTM_I2C_SWITCH_CHANNEL_UNSPECIFIED,
