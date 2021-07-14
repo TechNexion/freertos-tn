@@ -1,0 +1,40 @@
+Scanning dependencies of target rpmsg_lite_pingpong_rtos_linux_remote.elf
+[  7%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/multicore_examples/rpmsg_lite_pingpong_rtos/linux_remote/pin_mux.c.obj
+[  7%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/multicore_examples/rpmsg_lite_pingpong_rtos/linux_remote/board.c.obj
+[  7%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/multicore_examples/rpmsg_lite_pingpong_rtos/linux_remote/main_remote.c.obj
+[ 10%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/middleware/multicore/rpmsg_lite/lib/rpmsg_lite/rpmsg_lite.c.obj
+[ 13%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/middleware/multicore/rpmsg_lite/lib/rpmsg_lite/rpmsg_ns.c.obj
+[ 15%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/middleware/multicore/rpmsg_lite/lib/common/llist.c.obj
+[ 18%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/middleware/multicore/rpmsg_lite/lib/rpmsg_lite/porting/platform/imx8mp_m7/rpmsg_platform.c.obj
+[ 21%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/middleware/multicore/rpmsg_lite/lib/rpmsg_lite/rpmsg_queue.c.obj
+[ 23%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/multicore_examples/rpmsg_lite_pingpong_rtos/linux_remote/rsc_table.c.obj
+[ 26%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/rtos/freertos/freertos_kernel/croutine.c.obj
+[ 28%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/rtos/freertos/freertos_kernel/event_groups.c.obj
+[ 31%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/multicore_examples/rpmsg_lite_pingpong_rtos/linux_remote/clock_config.c.obj
+[ 34%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/middleware/multicore/rpmsg_lite/lib/virtio/virtqueue.c.obj
+[ 36%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/rtos/freertos/freertos_kernel/list.c.obj
+[ 39%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/middleware/multicore/rpmsg_lite/lib/rpmsg_lite/porting/environment/rpmsg_env_freertos.c.obj
+[ 42%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/rtos/freertos/freertos_kernel/portable/GCC/ARM_CM4F/port.c.obj
+[ 44%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/rtos/freertos/freertos_kernel/queue.c.obj
+[ 47%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/rtos/freertos/freertos_kernel/stream_buffer.c.obj
+[ 50%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/rtos/freertos/freertos_kernel/tasks.c.obj
+[ 52%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+[ 55%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_common.c.obj
+[ 57%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/rtos/freertos/freertos_kernel/portable/MemMang/heap_4.c.obj
+[ 60%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+[ 63%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/rtos/freertos/freertos_kernel/timers.c.obj
+[ 65%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+[ 68%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_mu.c.obj
+[ 71%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/str/fsl_str.c.obj
+[ 73%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+[ 76%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_manager.c.obj
+[ 78%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_port_uart.c.obj
+[ 81%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/uart/fsl_adapter_iuart.c.obj
+[ 86%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+[ 86%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/lists/fsl_component_generic_list.c.obj
+[ 89%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+[ 92%] Building ASM object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/gcc/startup_MIMX8ML8_cm7.S.obj
+[ 94%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/fsl_assert.c.obj
+[ 97%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+[100%] Linking C executable release/rpmsg_lite_pingpong_rtos_linux_remote.elf
+[100%] Built target rpmsg_lite_pingpong_rtos_linux_remote.elf

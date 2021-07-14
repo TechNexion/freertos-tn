@@ -1,0 +1,1341 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-errno.o)
+                              CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/str/fsl_str.c.obj (__errno)
+/home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+                              /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+/home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+                              /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+                              /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+/home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-malloc.o)
+                              CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_common.c.obj (malloc)
+/home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+                              CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/str/fsl_str.c.obj (memcpy)
+/home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+                              /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (memset)
+/home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+                              /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-malloc.o) (_free_r)
+/home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+                              /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-malloc.o) (_malloc_r)
+/home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+                              /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strlen.o)
+                              CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/str/fsl_str.c.obj (strlen)
+/home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtoul.o)
+                              CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/str/fsl_str.c.obj (strtoul)
+/home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-ctype_.o)
+                              /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtoul.o) (_ctype_)
+/home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+                              /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+/home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+                              /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o) (errno)
+/home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+                              /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o) (__retarget_lock_acquire_recursive)
+/home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_ldivmod.o)
+                              CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj (__aeabi_ldivmod)
+/home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+                              CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj (__aeabi_uldivmod)
+/home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+                              /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_ldivmod.o) (__udivmoddi4)
+/home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+                              /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_ldivmod.o) (__aeabi_ldiv0)
+/home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+                              /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+errno               0x4               /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+__lock___env_recursive_mutex
+                    0x1               /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex
+                    0x1               /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x4 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .data          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .text          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/hello_world.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/hello_world.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/hello_world.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/pin_mux.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/pin_mux.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/pin_mux.c.obj
+ .text.BOARD_InitBootPins
+                0x0000000000000000        0x2 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/pin_mux.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/board.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/board.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/board.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/clock_config.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/clock_config.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/clock_config.c.obj
+ .rodata.g_sysPll1Config
+                0x0000000000000000        0xc CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/clock_config.c.obj
+ .rodata.g_sysPll2Config
+                0x0000000000000000        0xc CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/clock_config.c.obj
+ .rodata.g_sysPll3Config
+                0x0000000000000000        0xc CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/clock_config.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/empty_rsc_table.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/empty_rsc_table.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/empty_rsc_table.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_DeinitArmPll
+                0x0000000000000000       0x10 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_DeinitAudioPll1
+                0x0000000000000000       0x10 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_DeinitAudioPll2
+                0x0000000000000000       0x10 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_DeinitVideoPll1
+                0x0000000000000000       0x10 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_DeinitSysPll1
+                0x0000000000000000       0x10 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_DeinitSysPll2
+                0x0000000000000000       0x10 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_DeinitSysPll3
+                0x0000000000000000       0x10 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_InitVideoPll1
+                0x0000000000000000       0x34 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_InitIntegerPll
+                0x0000000000000000       0x50 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_InitArmPll
+                0x0000000000000000       0x34 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_InitSysPll1
+                0x0000000000000000       0x34 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_InitSysPll2
+                0x0000000000000000       0x34 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_InitSysPll3
+                0x0000000000000000       0x34 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_GetCoreM7Freq
+                0x0000000000000000       0x84 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_GetAxiFreq
+                0x0000000000000000       0x84 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_GetAhbFreq
+                0x0000000000000000       0x88 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_GetFreq
+                0x0000000000000000       0x44 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_UpdateRoot
+                0x0000000000000000       0x2c CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_DisableClock
+                0x0000000000000000       0x50 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_common.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_common.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_common.c.obj
+ .text.SDK_Malloc
+                0x0000000000000000       0x2e CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_common.c.obj
+ .text.SDK_Free
+                0x0000000000000000       0x18 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_common.c.obj
+ .text.SDK_DelayAtLeastUs
+                0x0000000000000000       0x20 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_common.c.obj
+ .comment       0x0000000000000000       0x7a CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_common.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x34 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_common.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .text.RDC_GetInstance
+                0x0000000000000000       0x10 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .text.RDC_Init
+                0x0000000000000000        0xc CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .text.RDC_Deinit
+                0x0000000000000000        0xc CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .text.RDC_GetHardwareConfig
+                0x0000000000000000        0x6 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .text.RDC_GetDefaultMasterDomainAssignment
+                0x0000000000000000        0x6 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .text.RDC_SetPeriphAccessConfig
+                0x0000000000000000       0x24 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .text.RDC_GetDefaultPeriphAccessConfig
+                0x0000000000000000       0x18 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .text.RDC_SetMemAccessConfig
+                0x0000000000000000       0x3e CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .text.RDC_GetDefaultMemAccessConfig
+                0x0000000000000000       0x22 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .text.RDC_GetMemViolationStatus
+                0x0000000000000000       0x24 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+ .text.AUDIOMIX_AttachClk
+                0x0000000000000000       0x16 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+ .text.AUDIOMIX_DeinitAudioPll1
+                0x0000000000000000        0xe CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+ .text.AUDIOMIX_GetAudioPllFreq
+                0x0000000000000000       0x48 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/str/fsl_str.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/str/fsl_str.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/str/fsl_str.c.obj
+ .text.ScanIsWhiteSpace
+                0x0000000000000000       0x14 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/str/fsl_str.c.obj
+ .text.ScanIgnoreWhiteSpace
+                0x0000000000000000       0x22 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/str/fsl_str.c.obj
+ .text.StrFormatScanf
+                0x0000000000000000      0x23e CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/str/fsl_str.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+ .text.DbgConsole_SendData
+                0x0000000000000000       0x20 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+ .text.DbgConsole_ReadLine
+                0x0000000000000000       0x50 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+ .text.DbgConsole_EnterLowpower
+                0x0000000000000000       0x18 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+ .text.DbgConsole_ExitLowpower
+                0x0000000000000000       0x18 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+ .text.DbgConsole_Deinit
+                0x0000000000000000       0x40 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+ .text.DbgConsole_Flush
+                0x0000000000000000        0x4 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+ .text.DbgConsole_Scanf
+                0x0000000000000000       0x36 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+ .text.DbgConsole_BlockingPrintf
+                0x0000000000000000       0x54 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_manager.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_manager.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_manager.c.obj
+ .text.SerialManager_Deinit
+                0x0000000000000000       0x2a CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_manager.c.obj
+ .text.SerialManager_CloseWriteHandle
+                0x0000000000000000       0x24 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_manager.c.obj
+ .text.SerialManager_CloseReadHandle
+                0x0000000000000000       0x1e CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_manager.c.obj
+ .text.SerialManager_EnterLowpower
+                0x0000000000000000       0x12 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_manager.c.obj
+ .text.SerialManager_ExitLowpower
+                0x0000000000000000       0x12 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_manager.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_port_uart.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_port_uart.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_port_uart.c.obj
+ .text.Serial_UartDeinit
+                0x0000000000000000        0xa CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_port_uart.c.obj
+ .text.Serial_UartEnterLowpower
+                0x0000000000000000        0xa CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_port_uart.c.obj
+ .text.Serial_UartExitLowpower
+                0x0000000000000000        0xa CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_port_uart.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_TransferGetRxRingBufferLength
+                0x0000000000000000       0x26 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_TransferIsRxRingBufferFull
+                0x0000000000000000       0x14 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_Deinit
+                0x0000000000000000       0x2c CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_EnableInterrupts
+                0x0000000000000000      0x108 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_DisableInterrupts
+                0x0000000000000000      0x110 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_TransferHandleIRQ
+                0x0000000000000000      0x364 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_GetEnabledInterrupts
+                0x0000000000000000      0x1a6 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_GetStatusFlag
+                0x0000000000000000       0x10 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_ClearStatusFlag
+                0x0000000000000000       0x10 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_TransferCreateHandle
+                0x0000000000000000       0x68 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_TransferStartRingBuffer
+                0x0000000000000000       0x14 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_TransferStopRingBuffer
+                0x0000000000000000       0x24 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_TransferSendNonBlocking
+                0x0000000000000000       0x2a CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_TransferAbortSend
+                0x0000000000000000       0x14 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_TransferGetSendCount
+                0x0000000000000000       0x16 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_TransferReceiveNonBlocking
+                0x0000000000000000       0xd0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_TransferAbortReceive
+                0x0000000000000000       0x20 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_TransferGetReceiveCount
+                0x0000000000000000       0x1e CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .rodata.s_uartIRQ
+                0x0000000000000000        0xa CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/lists/fsl_component_generic_list.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/lists/fsl_component_generic_list.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_Init
+                0x0000000000000000        0xc CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_GetList
+                0x0000000000000000        0x4 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_AddTail
+                0x0000000000000000       0x36 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_AddHead
+                0x0000000000000000       0x30 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_RemoveHead
+                0x0000000000000000       0x2c CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_GetHead
+                0x0000000000000000        0x4 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_GetNext
+                0x0000000000000000        0x4 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_GetPrev
+                0x0000000000000000        0x4 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_RemoveElement
+                0x0000000000000000       0x40 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_AddPrevElement
+                0x0000000000000000       0x52 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_GetSize
+                0x0000000000000000        0x4 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_GetAvailableSize
+                0x0000000000000000        0x8 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/lists/fsl_component_generic_list.c.obj
+ .comment       0x0000000000000000       0x7a CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/lists/fsl_component_generic_list.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x34 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/lists/fsl_component_generic_list.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/uart/fsl_adapter_iuart.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/uart/fsl_adapter_iuart.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/uart/fsl_adapter_iuart.c.obj
+ .text.HAL_UartDeinit
+                0x0000000000000000       0x18 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/uart/fsl_adapter_iuart.c.obj
+ .text.HAL_UartEnterLowpower
+                0x0000000000000000        0x4 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/uart/fsl_adapter_iuart.c.obj
+ .text.HAL_UartExitLowpower
+                0x0000000000000000        0x4 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/uart/fsl_adapter_iuart.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/gcc/startup_MIMX8ML8_cm7.S.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/gcc/startup_MIMX8ML8_cm7.S.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/fsl_assert.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/fsl_assert.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/fsl_assert.c.obj
+ .comment       0x0000000000000000       0x7a CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/fsl_assert.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x39 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/fsl_assert.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+ .text._sbrk    0x0000000000000000       0x38 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+ .bss.heap_end.6065
+                0x0000000000000000        0x4 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+ .comment       0x0000000000000000       0x7a CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x34 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+ .text          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-errno.o)
+ .text.__errno  0x0000000000000000        0xc /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000000       0x20 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-malloc.o)
+ .data          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-malloc.o)
+ .bss           0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-malloc.o)
+ .text.malloc   0x0000000000000000       0x10 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-malloc.o)
+ .text.free     0x0000000000000000       0x10 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-malloc.o)
+ .debug_frame   0x0000000000000000       0x30 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-malloc.o)
+ .text          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .text.memcpy   0x0000000000000000       0x1c /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000000000000000       0x28 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .text._free_r  0x0000000000000000       0xa0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x0000000000000000       0x38 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .text          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .text._malloc_r
+                0x0000000000000000       0xb4 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss.__malloc_free_list
+                0x0000000000000000        0x4 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x0000000000000000        0x4 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x0000000000000000       0x30 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x0000000000000000       0x20 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000000       0x2c /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strlen.o)
+ .text          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtoul.o)
+ .data          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtoul.o)
+ .bss           0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtoul.o)
+ .text._strtoul_l.isra.0
+                0x0000000000000000       0xf8 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtoul.o)
+ .text._strtoul_r
+                0x0000000000000000        0x4 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtoul.o)
+ .text.strtoul_l
+                0x0000000000000000       0x14 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtoul.o)
+ .text.strtoul  0x0000000000000000       0x14 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtoul.o)
+ .debug_frame   0x0000000000000000       0x64 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtoul.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strtoul.o)
+ .text          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-ctype_.o)
+ .data          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-ctype_.o)
+ .bss           0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-ctype_.o)
+ .rodata._ctype_
+                0x0000000000000000      0x101 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x0000000000000000       0x32 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-ctype_.o)
+ .text          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x0000000000000000        0xc /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+ .text.__malloc_unlock
+                0x0000000000000000        0xc /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000000000       0x30 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x1a /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0xb8 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x0000000000000000       0x5c /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ COMMON         0x0000000000000000        0x4 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x2 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x0000000000000000        0x2 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x2 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x0000000000000000        0x2 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x2 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x0000000000000000        0x2 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x2 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x0000000000000000        0x2 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .debug_frame   0x0000000000000000       0xb0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ COMMON         0x0000000000000000        0x9 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text          0x0000000000000000       0xa0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_ldivmod.o)
+ .data          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_ldivmod.o)
+ .debug_frame   0x0000000000000000       0x44 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_ldivmod.o)
+ .data          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .bss           0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .data          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+ .text          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .data          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .text          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x32 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x0000000000000000        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_interrupts     0x0000000000000000 0x0000000000000400 xr
+m_text           0x0000000000000400 0x000000000001fc00 xr
+m_data           0x0000000020000000 0x0000000000020000 rw
+m_data2          0x0000000080000000 0x0000000001000000 rw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crti.o
+LOAD /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+LOAD CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/hello_world.c.obj
+LOAD CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/pin_mux.c.obj
+LOAD CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/board.c.obj
+LOAD CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/clock_config.c.obj
+LOAD CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/empty_rsc_table.c.obj
+LOAD CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+LOAD CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_common.c.obj
+LOAD CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+LOAD CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+LOAD CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/str/fsl_str.c.obj
+LOAD CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+LOAD CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_manager.c.obj
+LOAD CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_port_uart.c.obj
+LOAD CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+LOAD CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/lists/fsl_component_generic_list.c.obj
+LOAD CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/uart/fsl_adapter_iuart.c.obj
+LOAD CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/gcc/startup_MIMX8ML8_cm7.S.obj
+LOAD CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+LOAD CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/fsl_assert.c.obj
+LOAD CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+START GROUP
+LOAD /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+LOAD /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+START GROUP
+LOAD /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+END GROUP
+START GROUP
+LOAD /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+START GROUP
+LOAD /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+LOAD /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtn.o
+                0x0000000000000400                HEAP_SIZE = DEFINED (__heap_size__)?__heap_size__:0x400
+                0x0000000000000400                STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x400
+
+.interrupts     0x0000000000000000      0x2a8
+                0x0000000000000000                __VECTOR_TABLE = .
+                0x0000000000000000                __Vectors = .
+                0x0000000000000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000000000000      0x2a8 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/gcc/startup_MIMX8ML8_cm7.S.obj
+                0x0000000000000000                __isr_vector
+                0x00000000000002a8                . = ALIGN (0x4)
+
+.resource_table
+                0x0000000000000400       0x10
+                0x0000000000000400                . = ALIGN (0x8)
+ *(.resource_table)
+ .resource_table
+                0x0000000000000400       0x10 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/empty_rsc_table.c.obj
+                0x0000000000000400                resource_table
+                0x0000000000000410                . = ALIGN (0x8)
+
+.text           0x0000000000000410     0x1b8c
+                0x0000000000000410                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0000000000000410       0x40 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x0000000000000450       0x74 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+                0x0000000000000450                _mainCRTStartup
+                0x0000000000000450                _start
+ .text          0x00000000000004c4      0x588 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/gcc/startup_MIMX8ML8_cm7.S.obj
+                0x00000000000004c4                Reset_Handler
+                0x0000000000000550                VPU_G2_DriverIRQHandler
+                0x0000000000000550                PWM2_DriverIRQHandler
+                0x0000000000000550                CAAM_ERROR_DriverIRQHandler
+                0x0000000000000550                DebugMon_Handler
+                0x0000000000000550                EDMA1_0_15_DriverIRQHandler
+                0x0000000000000550                CPU_Error_AXI_DriverIRQHandler
+                0x0000000000000550                BCH_DriverIRQHandler
+                0x0000000000000550                VPU_G1_DriverIRQHandler
+                0x0000000000000550                SNVS_Consolidated_DriverIRQHandler
+                0x0000000000000550                MIPI_CSI1_DriverIRQHandler
+                0x0000000000000550                MECC_ERR_DriverIRQHandler
+                0x0000000000000550                PWM4_DriverIRQHandler
+                0x0000000000000550                LCDIF1_DriverIRQHandler
+                0x0000000000000550                RDC_DriverIRQHandler
+                0x0000000000000550                GPIO3_Combined_0_15_DriverIRQHandler
+                0x0000000000000550                USB2_WAKEUP_DriverIRQHandler
+                0x0000000000000550                DDR_ERR_DriverIRQHandler
+                0x0000000000000550                I2S2_DriverIRQHandler
+                0x0000000000000550                I2C3_DriverIRQHandler
+                0x0000000000000550                HS_CP0_DriverIRQHandler
+                0x0000000000000550                GPMI_DriverIRQHandler
+                0x0000000000000550                MU3_AUDIO_DriverIRQHandler
+                0x0000000000000550                ISI_DriverIRQHandler
+                0x0000000000000550                I2C2_DriverIRQHandler
+                0x0000000000000550                ENET_QOS_PMT_DriverIRQHandler
+                0x0000000000000550                MIPI_CSI2_DriverIRQHandler
+                0x0000000000000550                GPIO2_Combined_16_31_DriverIRQHandler
+                0x0000000000000550                PERFMON1_DriverIRQHandler
+                0x0000000000000550                UsageFault_Handler
+                0x0000000000000550                SCTR_IRQ0_DriverIRQHandler
+                0x0000000000000550                CAAM_IRQ0_DriverIRQHandler
+                0x0000000000000550                DDR_PerformanceMonitor_DriverIRQHandler
+                0x0000000000000550                DefaultISR
+                0x0000000000000550                CPU_PerformanceUnit_DriverIRQHandler
+                0x0000000000000550                CAN_FD1_DriverIRQHandler
+                0x0000000000000550                CPU_Error_L2RAM_DriverIRQHandler
+                0x0000000000000550                I2S3_DriverIRQHandler
+                0x0000000000000550                SDMA2_DriverIRQHandler
+                0x0000000000000550                SRC_DriverIRQHandler
+                0x0000000000000550                GPIO1_INT4_DriverIRQHandler
+                0x0000000000000550                HS_CP1_DriverIRQHandler
+                0x0000000000000550                ENET1_MAC0_Rx_Tx_Done0_DriverIRQHandler
+                0x0000000000000550                USDHC1_DriverIRQHandler
+                0x0000000000000550                ECSPI3_DriverIRQHandler
+                0x0000000000000550                WDOG1_DriverIRQHandler
+                0x0000000000000550                SDMA1_DriverIRQHandler
+                0x0000000000000550                ECSPI2_DriverIRQHandler
+                0x0000000000000550                GPIO1_Combined_16_31_DriverIRQHandler
+                0x0000000000000550                GPIO1_INT7_DriverIRQHandler
+                0x0000000000000550                MIPI_DSI_DriverIRQHandler
+                0x0000000000000550                TZASC_DriverIRQHandler
+                0x0000000000000550                GPIO5_Combined_0_15_DriverIRQHandler
+                0x0000000000000550                GPIO1_INT0_DriverIRQHandler
+                0x0000000000000550                GPIO1_INT2_DriverIRQHandler
+                0x0000000000000550                GPU2D_DriverIRQHandler
+                0x0000000000000550                RTIC_DriverIRQHandler
+                0x0000000000000550                ENET1_1588_DriverIRQHandler
+                0x0000000000000550                CAN_FD1_ERROR_DriverIRQHandler
+                0x0000000000000550                EDMA1_ERR_DriverIRQHandler
+                0x0000000000000550                GPT2_DriverIRQHandler
+                0x0000000000000550                SCTR_IRQ1_DriverIRQHandler
+                0x0000000000000550                VPU_DriverIRQHandler
+                0x0000000000000550                I2S1_DriverIRQHandler
+                0x0000000000000550                SNVS_Security_DriverIRQHandler
+                0x0000000000000550                I2S7_DriverIRQHandler
+                0x0000000000000550                AUD2HTX_DriverIRQHandler
+                0x0000000000000550                PCIE_EDMA_DriverIRQHandler
+                0x0000000000000550                PDM_ERROR_DriverIRQHandler
+                0x0000000000000550                I2S56_DriverIRQHandler
+                0x0000000000000550                ML_DriverIRQHandler
+                0x0000000000000550                SJC_DriverIRQHandler
+                0x0000000000000550                CAAM_IRQ1_DriverIRQHandler
+                0x0000000000000550                PCIE_CTRL1_2_DriverIRQHandler
+                0x0000000000000550                PERFMON2_DriverIRQHandler
+                0x0000000000000550                GPT6_DriverIRQHandler
+                0x0000000000000550                EDMA1_16_31_DriverIRQHandler
+                0x0000000000000550                GPT5_DriverIRQHandler
+                0x0000000000000550                DDR_DriverIRQHandler
+                0x0000000000000550                GPT1_DriverIRQHandler
+                0x0000000000000550                CAAM_IRQ2_DriverIRQHandler
+                0x0000000000000550                SNVS_DriverIRQHandler
+                0x0000000000000550                CSU_DriverIRQHandler
+                0x0000000000000550                USDHC3_DriverIRQHandler
+                0x0000000000000550                GPIO1_INT5_DriverIRQHandler
+                0x0000000000000550                QOS_DriverIRQHandler
+                0x0000000000000550                HDMI_TX_DriverIRQHandler
+                0x0000000000000550                FlexSPI_DriverIRQHandler
+                0x0000000000000550                DEWARP_DriverIRQHandler
+                0x0000000000000550                GPIO1_Combined_0_15_DriverIRQHandler
+                0x0000000000000550                USDHC2_DriverIRQHandler
+                0x0000000000000550                WDOG3_DriverIRQHandler
+                0x0000000000000550                MemManage_Handler
+                0x0000000000000550                USB1_WAKEUP_DriverIRQHandler
+                0x0000000000000550                PDM_EVENT_DriverIRQHandler
+                0x0000000000000550                I2C4_DriverIRQHandler
+                0x0000000000000550                USB1_DriverIRQHandler
+                0x0000000000000550                GPIO3_Combined_16_31_DriverIRQHandler
+                0x0000000000000550                AUDIO_XCVR1_DriverIRQHandler
+                0x0000000000000550                PWM1_DriverIRQHandler
+                0x0000000000000550                MU3_M7_DriverIRQHandler
+                0x0000000000000550                PCIE_CTRL1_3_DriverIRQHandler
+                0x0000000000000550                GPT4_DriverIRQHandler
+                0x0000000000000550                MU2_A53_DriverIRQHandler
+                0x0000000000000550                I2C1_DriverIRQHandler
+                0x0000000000000550                AUDIO_XCVR_DriverIRQHandler
+                0x0000000000000550                SDMA3_DriverIRQHandler
+                0x0000000000000550                CM7_CTI_DriverIRQHandler
+                0x0000000000000550                ECSPI1_DriverIRQHandler
+                0x0000000000000550                DAP_DriverIRQHandler
+                0x0000000000000550                Reserved16_DriverIRQHandler
+                0x0000000000000550                ENET_QOS_DriverIRQHandler
+                0x0000000000000550                I2C6_DriverIRQHandler
+                0x0000000000000550                ENET1_DriverIRQHandler
+                0x0000000000000550                ISP2_DriverIRQHandler
+                0x0000000000000550                GPIO1_INT3_DriverIRQHandler
+                0x0000000000000550                MECC_DriverIRQHandler
+                0x0000000000000550                MECC_S_DriverIRQHandler
+                0x0000000000000550                PCIE_CTRL1_1_DriverIRQHandler
+                0x0000000000000550                APBHDMA_DriverIRQHandler
+                0x0000000000000550                ENET1_MAC0_Rx_Tx_Done1_DriverIRQHandler
+                0x0000000000000550                GPC_DriverIRQHandler
+                0x0000000000000550                GPIO2_Combined_0_15_DriverIRQHandler
+                0x0000000000000550                GPT3_DriverIRQHandler
+                0x0000000000000550                CAN_FD2_DriverIRQHandler
+                0x0000000000000550                CCM_IRQ2_DriverIRQHandler
+                0x0000000000000550                PCIE_CTRL1_0_DriverIRQHandler
+                0x0000000000000550                LCDIF2_DriverIRQHandler
+                0x0000000000000550                WDOG2_DriverIRQHandler
+                0x0000000000000550                ANAMIX_DriverIRQHandler
+                0x0000000000000550                MECC_S_ERR_DriverIRQHandler
+                0x0000000000000550                USB2_DriverIRQHandler
+                0x0000000000000550                GPIO4_Combined_0_15_DriverIRQHandler
+                0x0000000000000550                I2C5_DriverIRQHandler
+                0x0000000000000550                GPIO4_Combined_16_31_DriverIRQHandler
+                0x0000000000000550                ISP1_DriverIRQHandler
+                0x0000000000000550                GPIO5_Combined_16_31_DriverIRQHandler
+                0x0000000000000550                PCIE_CTRL1_ERR_DriverIRQHandler
+                0x0000000000000550                ASRC_DriverIRQHandler
+                0x0000000000000550                CAN_FD2_ERROR_DriverIRQHandler
+                0x0000000000000550                BusFault_Handler
+                0x0000000000000550                GPU3D_DriverIRQHandler
+                0x0000000000000550                PDM_HWVAD_ERROR_DriverIRQHandler
+                0x0000000000000550                PCIE_CTRL1_DriverIRQHandler
+                0x0000000000000550                CCM_IRQ1_DriverIRQHandler
+                0x0000000000000550                CPU_CTI_Trigger_DriverIRQHandler
+                0x0000000000000550                PDM_HWVAD_EVENT_DriverIRQHandler
+                0x0000000000000550                MU1_M7_DriverIRQHandler
+                0x0000000000000550                MU2_AUDIO_DriverIRQHandler
+                0x0000000000000550                PWM3_DriverIRQHandler
+                0x0000000000000550                AUDIO_XCVR0_DriverIRQHandler
+                0x0000000000000550                GPIO1_INT6_DriverIRQHandler
+                0x0000000000000550                GPIO1_INT1_DriverIRQHandler
+                0x0000000000000550                ISI_CH1_DriverIRQHandler
+                0x0000000000000550                SRC_Combined_DriverIRQHandler
+                0x0000000000000550                MU1_A53_DriverIRQHandler
+                0x0000000000000554                NMI_Handler
+                0x0000000000000558                HardFault_Handler
+                0x000000000000055c                SVC_Handler
+                0x0000000000000560                PendSV_Handler
+                0x0000000000000564                SysTick_Handler
+                0x0000000000000568                Reserved16_IRQHandler
+                0x000000000000056c                DAP_IRQHandler
+                0x0000000000000570                SDMA1_IRQHandler
+                0x0000000000000574                GPU3D_IRQHandler
+                0x0000000000000578                SNVS_IRQHandler
+                0x000000000000057c                LCDIF1_IRQHandler
+                0x0000000000000580                LCDIF2_IRQHandler
+                0x0000000000000584                VPU_G1_IRQHandler
+                0x0000000000000588                VPU_G2_IRQHandler
+                0x000000000000058c                QOS_IRQHandler
+                0x0000000000000590                WDOG3_IRQHandler
+                0x0000000000000594                HS_CP1_IRQHandler
+                0x0000000000000598                APBHDMA_IRQHandler
+                0x000000000000059c                ML_IRQHandler
+                0x00000000000005a0                BCH_IRQHandler
+                0x00000000000005a4                GPMI_IRQHandler
+                0x00000000000005a8                ISI_IRQHandler
+                0x00000000000005ac                MIPI_CSI1_IRQHandler
+                0x00000000000005b0                MIPI_DSI_IRQHandler
+                0x00000000000005b4                SNVS_Consolidated_IRQHandler
+                0x00000000000005b8                SNVS_Security_IRQHandler
+                0x00000000000005bc                CSU_IRQHandler
+                0x00000000000005c0                USDHC1_IRQHandler
+                0x00000000000005c4                USDHC2_IRQHandler
+                0x00000000000005c8                USDHC3_IRQHandler
+                0x00000000000005cc                GPU2D_IRQHandler
+                0x00000000000005d0                UART1_IRQHandler
+                0x00000000000005d4                UART2_IRQHandler
+                0x00000000000005d8                UART3_IRQHandler
+                0x00000000000005dc                UART4_IRQHandler
+                0x00000000000005e0                VPU_IRQHandler
+                0x00000000000005e4                ECSPI1_IRQHandler
+                0x00000000000005e8                ECSPI2_IRQHandler
+                0x00000000000005ec                ECSPI3_IRQHandler
+                0x00000000000005f0                SDMA3_IRQHandler
+                0x00000000000005f4                I2C1_IRQHandler
+                0x00000000000005f8                I2C2_IRQHandler
+                0x00000000000005fc                I2C3_IRQHandler
+                0x0000000000000600                I2C4_IRQHandler
+                0x0000000000000604                RDC_IRQHandler
+                0x0000000000000608                USB1_IRQHandler
+                0x000000000000060c                USB2_IRQHandler
+                0x0000000000000610                ISI_CH1_IRQHandler
+                0x0000000000000614                HDMI_TX_IRQHandler
+                0x0000000000000618                PDM_HWVAD_EVENT_IRQHandler
+                0x000000000000061c                PDM_HWVAD_ERROR_IRQHandler
+                0x0000000000000620                GPT6_IRQHandler
+                0x0000000000000624                SCTR_IRQ0_IRQHandler
+                0x0000000000000628                SCTR_IRQ1_IRQHandler
+                0x000000000000062c                ANAMIX_IRQHandler
+                0x0000000000000630                I2S3_IRQHandler
+                0x0000000000000634                GPT5_IRQHandler
+                0x0000000000000638                GPT4_IRQHandler
+                0x000000000000063c                GPT3_IRQHandler
+                0x0000000000000640                GPT2_IRQHandler
+                0x0000000000000644                GPT1_IRQHandler
+                0x0000000000000648                GPIO1_INT7_IRQHandler
+                0x000000000000064c                GPIO1_INT6_IRQHandler
+                0x0000000000000650                GPIO1_INT5_IRQHandler
+                0x0000000000000654                GPIO1_INT4_IRQHandler
+                0x0000000000000658                GPIO1_INT3_IRQHandler
+                0x000000000000065c                GPIO1_INT2_IRQHandler
+                0x0000000000000660                GPIO1_INT1_IRQHandler
+                0x0000000000000664                GPIO1_INT0_IRQHandler
+                0x0000000000000668                GPIO1_Combined_0_15_IRQHandler
+                0x000000000000066c                GPIO1_Combined_16_31_IRQHandler
+                0x0000000000000670                GPIO2_Combined_0_15_IRQHandler
+                0x0000000000000674                GPIO2_Combined_16_31_IRQHandler
+                0x0000000000000678                GPIO3_Combined_0_15_IRQHandler
+                0x000000000000067c                GPIO3_Combined_16_31_IRQHandler
+                0x0000000000000680                GPIO4_Combined_0_15_IRQHandler
+                0x0000000000000684                GPIO4_Combined_16_31_IRQHandler
+                0x0000000000000688                GPIO5_Combined_0_15_IRQHandler
+                0x000000000000068c                GPIO5_Combined_16_31_IRQHandler
+                0x0000000000000690                ISP1_IRQHandler
+                0x0000000000000694                ISP2_IRQHandler
+                0x0000000000000698                I2C5_IRQHandler
+                0x000000000000069c                I2C6_IRQHandler
+                0x00000000000006a0                WDOG1_IRQHandler
+                0x00000000000006a4                WDOG2_IRQHandler
+                0x00000000000006a8                MIPI_CSI2_IRQHandler
+                0x00000000000006ac                PWM1_IRQHandler
+                0x00000000000006b0                PWM2_IRQHandler
+                0x00000000000006b4                PWM3_IRQHandler
+                0x00000000000006b8                PWM4_IRQHandler
+                0x00000000000006bc                CCM_IRQ1_IRQHandler
+                0x00000000000006c0                CCM_IRQ2_IRQHandler
+                0x00000000000006c4                GPC_IRQHandler
+                0x00000000000006c8                MU1_A53_IRQHandler
+                0x00000000000006cc                SRC_IRQHandler
+                0x00000000000006d0                I2S56_IRQHandler
+                0x00000000000006d4                RTIC_IRQHandler
+                0x00000000000006d8                CPU_PerformanceUnit_IRQHandler
+                0x00000000000006dc                CPU_CTI_Trigger_IRQHandler
+                0x00000000000006e0                SRC_Combined_IRQHandler
+                0x00000000000006e4                I2S1_IRQHandler
+                0x00000000000006e8                I2S2_IRQHandler
+                0x00000000000006ec                MU1_M7_IRQHandler
+                0x00000000000006f0                DDR_PerformanceMonitor_IRQHandler
+                0x00000000000006f4                DDR_IRQHandler
+                0x00000000000006f8                DEWARP_IRQHandler
+                0x00000000000006fc                CPU_Error_AXI_IRQHandler
+                0x0000000000000700                CPU_Error_L2RAM_IRQHandler
+                0x0000000000000704                SDMA2_IRQHandler
+                0x0000000000000708                SJC_IRQHandler
+                0x000000000000070c                CAAM_IRQ0_IRQHandler
+                0x0000000000000710                CAAM_IRQ1_IRQHandler
+                0x0000000000000714                FlexSPI_IRQHandler
+                0x0000000000000718                TZASC_IRQHandler
+                0x000000000000071c                PDM_EVENT_IRQHandler
+                0x0000000000000720                PDM_ERROR_IRQHandler
+                0x0000000000000724                I2S7_IRQHandler
+                0x0000000000000728                PERFMON1_IRQHandler
+                0x000000000000072c                PERFMON2_IRQHandler
+                0x0000000000000730                CAAM_IRQ2_IRQHandler
+                0x0000000000000734                CAAM_ERROR_IRQHandler
+                0x0000000000000738                HS_CP0_IRQHandler
+                0x000000000000073c                CM7_CTI_IRQHandler
+                0x0000000000000740                ENET1_MAC0_Rx_Tx_Done0_IRQHandler
+                0x0000000000000744                ENET1_MAC0_Rx_Tx_Done1_IRQHandler
+                0x0000000000000748                ENET1_IRQHandler
+                0x000000000000074c                ENET1_1588_IRQHandler
+                0x0000000000000750                ASRC_IRQHandler
+                0x0000000000000754                PCIE_CTRL1_0_IRQHandler
+                0x0000000000000758                PCIE_CTRL1_1_IRQHandler
+                0x000000000000075c                PCIE_CTRL1_2_IRQHandler
+                0x0000000000000760                PCIE_CTRL1_3_IRQHandler
+                0x0000000000000764                PCIE_EDMA_IRQHandler
+                0x0000000000000768                AUDIO_XCVR0_IRQHandler
+                0x000000000000076c                AUDIO_XCVR1_IRQHandler
+                0x0000000000000770                AUD2HTX_IRQHandler
+                0x0000000000000774                EDMA1_ERR_IRQHandler
+                0x0000000000000778                EDMA1_0_15_IRQHandler
+                0x000000000000077c                EDMA1_16_31_IRQHandler
+                0x0000000000000780                ENET_QOS_PMT_IRQHandler
+                0x0000000000000784                ENET_QOS_IRQHandler
+                0x0000000000000788                MU2_A53_IRQHandler
+                0x000000000000078c                MU2_AUDIO_IRQHandler
+                0x0000000000000790                MU3_M7_IRQHandler
+                0x0000000000000794                MU3_AUDIO_IRQHandler
+                0x0000000000000798                PCIE_CTRL1_IRQHandler
+                0x000000000000079c                PCIE_CTRL1_ERR_IRQHandler
+                0x00000000000007a0                CAN_FD1_IRQHandler
+                0x00000000000007a4                CAN_FD1_ERROR_IRQHandler
+                0x00000000000007a8                CAN_FD2_IRQHandler
+                0x00000000000007ac                CAN_FD2_ERROR_IRQHandler
+                0x00000000000007b0                AUDIO_XCVR_IRQHandler
+                0x00000000000007b4                DDR_ERR_IRQHandler
+                0x00000000000007b8                USB1_WAKEUP_IRQHandler
+                0x00000000000007bc                USB2_WAKEUP_IRQHandler
+                0x00000000000007c0                MECC_IRQHandler
+                0x00000000000007c4                MECC_ERR_IRQHandler
+                0x00000000000007c8                MECC_S_IRQHandler
+                0x00000000000007cc                MECC_S_ERR_IRQHandler
+ .text          0x0000000000000a4c       0x10 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strlen.o)
+                0x0000000000000a4c                strlen
+ .text          0x0000000000000a5c       0x30 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+                0x0000000000000a5c                __aeabi_uldivmod
+ .text          0x0000000000000a8c      0x2c4 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+                0x0000000000000a8c                __udivmoddi4
+ .text          0x0000000000000d50        0x4 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+                0x0000000000000d50                __aeabi_ldiv0
+                0x0000000000000d50                __aeabi_idiv0
+ *(.text*)
+ .text.startup.main
+                0x0000000000000d54       0x2c CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/hello_world.c.obj
+                0x0000000000000d54                main
+ .text.BOARD_InitPins
+                0x0000000000000d80       0x2c CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/pin_mux.c.obj
+                0x0000000000000d80                BOARD_InitPins
+ .text.BOARD_InitDebugConsole
+                0x0000000000000dac       0x40 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/board.c.obj
+                0x0000000000000dac                BOARD_InitDebugConsole
+ .text.BOARD_InitMemory
+                0x0000000000000dec      0x1b4 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/board.c.obj
+                0x0000000000000dec                BOARD_InitMemory
+ .text.BOARD_RdcInit
+                0x0000000000000fa0       0x68 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/board.c.obj
+                0x0000000000000fa0                BOARD_RdcInit
+ .text.BOARD_BootClockRUN
+                0x0000000000001008      0x14c CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/clock_config.c.obj
+                0x0000000000001008                BOARD_BootClockRUN
+ .text.CLOCK_GetPllRefClkFreq
+                0x0000000000001154       0x20 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+                0x0000000000001154                CLOCK_GetPllRefClkFreq
+ .text.CLOCK_InitFracPll
+                0x0000000000001174       0x54 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+                0x0000000000001174                CLOCK_InitFracPll
+ .text.CLOCK_InitAudioPll1
+                0x00000000000011c8       0x2c CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+                0x00000000000011c8                CLOCK_InitAudioPll1
+ .text.CLOCK_InitAudioPll2
+                0x00000000000011f4       0x34 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+                0x00000000000011f4                CLOCK_InitAudioPll2
+ .text.CLOCK_GetFracPllFreq
+                0x0000000000001228       0x4c CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+                0x0000000000001228                CLOCK_GetFracPllFreq
+ .text.CLOCK_GetIntegerPllFreq
+                0x0000000000001274       0x36 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+                0x0000000000001274                CLOCK_GetIntegerPllFreq
+ *fill*         0x00000000000012aa        0x2 
+ .text.CLOCK_GetPllFreq
+                0x00000000000012ac       0xbc CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+                0x00000000000012ac                CLOCK_GetPllFreq
+ .text.CLOCK_SetRootDivider
+                0x0000000000001368       0x20 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+                0x0000000000001368                CLOCK_SetRootDivider
+ .text.CLOCK_EnableClock
+                0x0000000000001388       0x50 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+                0x0000000000001388                CLOCK_EnableClock
+ .text.RDC_SetMasterDomainAssignment
+                0x00000000000013d8        0xa CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+                0x00000000000013d8                RDC_SetMasterDomainAssignment
+ *fill*         0x00000000000013e2        0x2 
+ .text.AUDIOMIX_InitAudioPll
+                0x00000000000013e4       0x64 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+                0x00000000000013e4                AUDIOMIX_InitAudioPll
+ .text.PrintOutputdifFobpu.isra.0
+                0x0000000000001448       0x28 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/str/fsl_str.c.obj
+ .text.StrFormatPrintf
+                0x0000000000001470      0x1e4 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/str/fsl_str.c.obj
+                0x0000000000001470                StrFormatPrintf
+ .text.DbgConsole_ReadOneCharacter
+                0x0000000000001654       0x20 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+                0x0000000000001654                DbgConsole_ReadOneCharacter
+ .text.DbgConsole_SendDataReliable
+                0x0000000000001674       0x2c CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+                0x0000000000001674                DbgConsole_SendDataReliable
+ .text.DbgConsole_PrintCallback
+                0x00000000000016a0       0x3a CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+ *fill*         0x00000000000016da        0x2 
+ .text.DbgConsole_ReadCharacter
+                0x00000000000016dc       0x1c CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+                0x00000000000016dc                DbgConsole_ReadCharacter
+ .text.DbgConsole_Init
+                0x00000000000016f8       0x78 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+                0x00000000000016f8                DbgConsole_Init
+ .text.DbgConsole_Printf
+                0x0000000000001770       0x40 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+                0x0000000000001770                DbgConsole_Printf
+ .text.DbgConsole_Putchar
+                0x00000000000017b0       0x12 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+                0x00000000000017b0                DbgConsole_Putchar
+ .text.DbgConsole_Getchar
+                0x00000000000017c2       0x22 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+                0x00000000000017c2                DbgConsole_Getchar
+ .text.SerialManager_Init
+                0x00000000000017e4       0x2a CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_manager.c.obj
+                0x00000000000017e4                SerialManager_Init
+ .text.SerialManager_OpenWriteHandle
+                0x000000000000180e       0x26 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_manager.c.obj
+                0x000000000000180e                SerialManager_OpenWriteHandle
+ .text.SerialManager_OpenReadHandle
+                0x0000000000001834       0x2c CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_manager.c.obj
+                0x0000000000001834                SerialManager_OpenReadHandle
+ .text.SerialManager_WriteBlocking
+                0x0000000000001860       0x14 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_manager.c.obj
+                0x0000000000001860                SerialManager_WriteBlocking
+ .text.SerialManager_ReadBlocking
+                0x0000000000001874       0x14 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_manager.c.obj
+                0x0000000000001874                SerialManager_ReadBlocking
+ .text.Serial_UartInit
+                0x0000000000001888        0x4 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_port_uart.c.obj
+                0x0000000000001888                Serial_UartInit
+ .text.Serial_UartWrite
+                0x000000000000188c        0x4 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_port_uart.c.obj
+                0x000000000000188c                Serial_UartWrite
+ .text.Serial_UartRead
+                0x0000000000001890        0x4 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_port_uart.c.obj
+                0x0000000000001890                Serial_UartRead
+ .text.UART_GetInstance
+                0x0000000000001894       0x38 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+                0x0000000000001894                UART_GetInstance
+ .text.UART_GetDefaultConfig
+                0x00000000000018cc       0x28 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+                0x00000000000018cc                UART_GetDefaultConfig
+ .text.UART_SetBaudRate
+                0x00000000000018f4      0x150 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+                0x00000000000018f4                UART_SetBaudRate
+ .text.UART_Init
+                0x0000000000001a44      0x154 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+                0x0000000000001a44                UART_Init
+ .text.UART_WriteBlocking
+                0x0000000000001b98       0x22 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+                0x0000000000001b98                UART_WriteBlocking
+ .text.UART_ReadBlocking
+                0x0000000000001bba       0x66 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+                0x0000000000001bba                UART_ReadBlocking
+ .text.UART1_DriverIRQHandler
+                0x0000000000001c20       0x20 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+                0x0000000000001c20                UART1_DriverIRQHandler
+ .text.UART2_DriverIRQHandler
+                0x0000000000001c40       0x20 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+                0x0000000000001c40                UART2_DriverIRQHandler
+ .text.UART3_DriverIRQHandler
+                0x0000000000001c60       0x20 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+                0x0000000000001c60                UART3_DriverIRQHandler
+ .text.UART4_DriverIRQHandler
+                0x0000000000001c80       0x20 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+                0x0000000000001c80                UART4_DriverIRQHandler
+ .text.HAL_UartInit
+                0x0000000000001ca0       0x6c CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/uart/fsl_adapter_iuart.c.obj
+                0x0000000000001ca0                HAL_UartInit
+ .text.HAL_UartReceiveBlocking
+                0x0000000000001d0c       0x20 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/uart/fsl_adapter_iuart.c.obj
+                0x0000000000001d0c                HAL_UartReceiveBlocking
+ .text.HAL_UartSendBlocking
+                0x0000000000001d2c       0x18 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/uart/fsl_adapter_iuart.c.obj
+                0x0000000000001d2c                HAL_UartSendBlocking
+ .text.GetFracPllFreq
+                0x0000000000001d44       0x4c CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+                0x0000000000001d44                GetFracPllFreq
+ .text.GetIntegerPllFreq
+                0x0000000000001d90       0x44 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+                0x0000000000001d90                GetIntegerPllFreq
+ .text.SystemCoreClockUpdate
+                0x0000000000001dd4       0x98 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+                0x0000000000001dd4                SystemCoreClockUpdate
+ .text.SystemInitHook
+                0x0000000000001e6c        0x2 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+                0x0000000000001e6c                SystemInitHook
+ *fill*         0x0000000000001e6e        0x2 
+ .text.SystemInit
+                0x0000000000001e70       0x1c CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+                0x0000000000001e70                SystemInit
+ .text.exit     0x0000000000001e8c       0x28 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+                0x0000000000001e8c                exit
+ .text.__libc_init_array
+                0x0000000000001eb4       0x48 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+                0x0000000000001eb4                __libc_init_array
+ .text.memset   0x0000000000001efc       0x10 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+                0x0000000000001efc                memset
+ .text._exit    0x0000000000001f0c        0x4 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+                0x0000000000001f0c                _exit
+ *(.rodata)
+ *(.rodata*)
+ .rodata.main.str1.1
+                0x0000000000001f10        0xf CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/hello_world.c.obj
+ *fill*         0x0000000000001f1f        0x1 
+ .rodata.g_audioPll1Config
+                0x0000000000001f20       0x10 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/clock_config.c.obj
+                0x0000000000001f20                g_audioPll1Config
+ .rodata.g_audioPll2Config
+                0x0000000000001f30       0x10 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/clock_config.c.obj
+                0x0000000000001f30                g_audioPll2Config
+ .rodata.g_saiPLLConfig
+                0x0000000000001f40       0x10 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/clock_config.c.obj
+                0x0000000000001f40                g_saiPLLConfig
+ .rodata.CSWTCH.36
+                0x0000000000001f50        0x6 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ *fill*         0x0000000000001f56        0x2 
+ .rodata.s_uartClock
+                0x0000000000001f58       0x14 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .rodata.s_UartAdapterBase
+                0x0000000000001f6c       0x14 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/uart/fsl_adapter_iuart.c.obj
+ .rodata._global_impure_ptr
+                0x0000000000001f80        0x4 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+                0x0000000000001f80                _global_impure_ptr
+ *(.glue_7)
+ .glue_7        0x0000000000001f84        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000000001f84        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x0000000000001f84        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.init)
+ .init          0x0000000000001f84        0x4 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crti.o
+                0x0000000000001f84                _init
+ .init          0x0000000000001f88        0x8 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x0000000000001f90        0x4 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crti.o
+                0x0000000000001f90                _fini
+ .fini          0x0000000000001f94        0x8 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtn.o
+                0x0000000000001f9c                . = ALIGN (0x4)
+
+.vfp11_veneer   0x0000000000001f9c        0x0
+ .vfp11_veneer  0x0000000000001f9c        0x0 linker stubs
+
+.v4_bx          0x0000000000001f9c        0x0
+ .v4_bx         0x0000000000001f9c        0x0 linker stubs
+
+.iplt           0x0000000000001f9c        0x0
+ .iplt          0x0000000000001f9c        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x0000000000001f9c        0x8
+                0x0000000000001f9c                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x0000000000001f9c        0x8 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.exidx     0x0000000000001fa4        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+                                          0x8 (size before relaxing)
+                0x0000000000001fa4                __exidx_end = .
+
+.rel.dyn        0x0000000000001fa4        0x0
+ .rel.iplt      0x0000000000001fa4        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.ctors          0x0000000000001fa4        0x0
+                0x0000000000001fa4                __CTOR_LIST__ = .
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+                0x0000000000001fa4                __CTOR_END__ = .
+
+.dtors          0x0000000000001fa4        0x0
+                0x0000000000001fa4                __DTOR_LIST__ = .
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+                0x0000000000001fa4                __DTOR_END__ = .
+
+.preinit_array  0x0000000000001fa4        0x0
+                0x0000000000001fa4                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x0000000000001fa4                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0000000000001fa4        0x4
+                0x0000000000001fa4                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x0000000000001fa4        0x4 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x0000000000001fa8                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000000001fa8        0x4
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0000000000001fa8        0x4 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x0000000000001fac                __etext = .
+                0x0000000000001fac                __DATA_ROM = .
+
+.data           0x0000000020000000       0x64 load address 0x0000000000001fac
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                __DATA_RAM = .
+                0x0000000020000000                __data_start__ = .
+ *(.data)
+ *(.data*)
+ .data.SystemCoreClock
+                0x0000000020000000        0x4 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+                0x0000000020000000                SystemCoreClock
+ .data.impure_data
+                0x0000000020000004       0x60 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ *(.jcr*)
+                0x0000000020000064                . = ALIGN (0x4)
+                0x0000000020000064                __data_end__ = .
+                0x0000000000000000                __CACHE_REGION_START = ORIGIN (m_interrupts)
+                0x0000000000000000                __CACHE_REGION_SIZE = 0x0
+                0x0000000000002010                __NDATA_ROM = (__DATA_ROM + SIZEOF (.data))
+
+.igot.plt       0x0000000020000064        0x0 load address 0x0000000000002010
+ .igot.plt      0x0000000020000064        0x0 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.ncache.init    0x0000000080000000        0x0 load address 0x0000000000002010
+                0x0000000080000000                __noncachedata_start__ = .
+ *(NonCacheable.init)
+                0x0000000080000000                . = ALIGN (0x4)
+                0x0000000080000000                __noncachedata_init_end__ = .
+                0x0000000080000000                . = __noncachedata_init_end__
+
+.ncache         0x0000000080000000        0x0
+ *(NonCacheable)
+                0x0000000080000000                . = ALIGN (0x4)
+                0x0000000080000000                __noncachedata_end__ = .
+                0x0000000000002010                __DATA_END = (__DATA_ROM + (__data_end__ - __data_start__))
+                0x0000000000020000                text_end = (ORIGIN (m_text) + LENGTH (m_text))
+                0x0000000000000001                ASSERT ((__DATA_END <= text_end), region m_text overflowed with text and data)
+
+.bss            0x0000000020000064       0x5c load address 0x0000000000002010
+                0x0000000020000064                . = ALIGN (0x4)
+                0x0000000020000064                __START_BSS = .
+                0x0000000020000064                __bss_start__ = .
+ *(.bss)
+ .bss           0x0000000020000064       0x1c /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.bss*)
+ .bss.g_serialHandle
+                0x0000000020000080        0x4 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+                0x0000000020000080                g_serialHandle
+ .bss.s_debugConsoleReadWaitSemaphore
+                0x0000000020000084        0x1 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+ *fill*         0x0000000020000085        0x3 
+ .bss.s_debugConsoleState
+                0x0000000020000088       0x20 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+ .bss.s_uartHandle
+                0x00000000200000a8       0x14 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .bss.s_uartIsr
+                0x00000000200000bc        0x4 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ *(COMMON)
+                0x00000000200000c0                . = ALIGN (0x4)
+                0x00000000200000c0                __bss_end__ = .
+                0x00000000200000c0                __END_BSS = .
+
+.heap           0x00000000200000c0      0x400 load address 0x000000000000206c
+                0x00000000200000c0                . = ALIGN (0x8)
+                0x00000000200000c0                __end__ = .
+                0x00000000200000c0                PROVIDE (end = .)
+                0x00000000200000c0                __HeapBase = .
+                0x00000000200004c0                . = (. + HEAP_SIZE)
+ *fill*         0x00000000200000c0      0x400 
+                0x00000000200004c0                __HeapLimit = .
+                0x00000000200004c0                __heap_limit = .
+
+.stack          0x00000000200004c0      0x400 load address 0x000000000000246c
+                0x00000000200004c0                . = ALIGN (0x8)
+                0x00000000200008c0                . = (. + STACK_SIZE)
+ *fill*         0x00000000200004c0      0x400 
+                0x0000000020020000                __StackTop = (ORIGIN (m_data) + LENGTH (m_data))
+                0x000000002001fc00                __StackLimit = (__StackTop - STACK_SIZE)
+                0x0000000020020000                PROVIDE (__stack = __StackTop)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1e /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x34 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000000000000052       0x1c /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x000000000000006e       0x34 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/hello_world.c.obj
+ .ARM.attributes
+                0x00000000000000a2       0x34 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/pin_mux.c.obj
+ .ARM.attributes
+                0x00000000000000d6       0x34 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/board.c.obj
+ .ARM.attributes
+                0x000000000000010a       0x34 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/clock_config.c.obj
+ .ARM.attributes
+                0x000000000000013e       0x39 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/empty_rsc_table.c.obj
+ .ARM.attributes
+                0x0000000000000177       0x34 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .ARM.attributes
+                0x00000000000001ab       0x34 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .ARM.attributes
+                0x00000000000001df       0x34 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+ .ARM.attributes
+                0x0000000000000213       0x34 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/str/fsl_str.c.obj
+ .ARM.attributes
+                0x0000000000000247       0x34 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+ .ARM.attributes
+                0x000000000000027b       0x34 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_manager.c.obj
+ .ARM.attributes
+                0x00000000000002af       0x34 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_port_uart.c.obj
+ .ARM.attributes
+                0x00000000000002e3       0x34 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .ARM.attributes
+                0x0000000000000317       0x34 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/uart/fsl_adapter_iuart.c.obj
+ .ARM.attributes
+                0x000000000000034b       0x1f CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/gcc/startup_MIMX8ML8_cm7.S.obj
+ .ARM.attributes
+                0x000000000000036a       0x34 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+ .ARM.attributes
+                0x000000000000039e       0x34 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000000003d2       0x32 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000404       0x34 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000438       0x34 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000000000000046c       0x17 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x0000000000000483       0x1e /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000000000004a1       0x34 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000000000004d5       0x1e /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000000004f3       0x34 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000000000000527       0x1e /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/crtn.o
+                0x0000000000000001                ASSERT ((__StackLimit >= __HeapLimit), region m_data overflowed with stack and heap)
+OUTPUT(release/hello_world.elf elf32-littlearm)
+
+.comment        0x0000000000000000       0x79
+ .comment       0x0000000000000000       0x79 CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/hello_world.c.obj
+                                         0x7a (size before relaxing)
+ .comment       0x0000000000000079       0x7a CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/pin_mux.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/board.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/clock_config.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/empty_rsc_table.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/str/fsl_str.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_manager.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_port_uart.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/uart/fsl_adapter_iuart.c.obj
+ .comment       0x0000000000000079       0x7a CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+
+.debug_frame    0x0000000000000000       0xf4
+ .debug_frame   0x0000000000000000       0x28 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000028       0x2c /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .debug_frame   0x0000000000000054       0x20 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000074       0x2c /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00000000000000a0       0x34 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00000000000000d4       0x20 /home/wig/disk1/linux/wizard-audio-test/freertos-tn/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)

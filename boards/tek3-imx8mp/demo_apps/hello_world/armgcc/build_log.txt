@@ -1,0 +1,23 @@
+Scanning dependencies of target hello_world.elf
+[  4%] Building C object CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/pin_mux.c.obj
+[  9%] Building C object CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/hello_world.c.obj
+[ 14%] Building C object CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/board.c.obj
+[ 19%] Building C object CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/empty_rsc_table.c.obj
+[ 23%] Building C object CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/boards/tek3-imx8mp/demo_apps/hello_world/clock_config.c.obj
+[ 28%] Building C object CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+[ 33%] Building C object CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+[ 38%] Building C object CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_common.c.obj
+[ 42%] Building C object CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+[ 47%] Building C object CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/str/fsl_str.c.obj
+[ 52%] Building C object CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/debug_console/fsl_debug_console.c.obj
+[ 57%] Building C object CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_manager.c.obj
+[ 66%] Building C object CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+[ 66%] Building C object CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/lists/fsl_component_generic_list.c.obj
+[ 71%] Building C object CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/uart/fsl_adapter_iuart.c.obj
+[ 76%] Building ASM object CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/gcc/startup_MIMX8ML8_cm7.S.obj
+[ 80%] Building C object CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/components/serial_manager/fsl_component_serial_port_uart.c.obj
+[ 85%] Building C object CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+[ 90%] Building C object CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+[ 95%] Building C object CMakeFiles/hello_world.elf.dir/home/wig/disk1/linux/wizard-audio-test/freertos-tn/devices/MIMX8ML8/utilities/fsl_assert.c.obj
+[100%] Linking C executable release/hello_world.elf
+[100%] Built target hello_world.elf
