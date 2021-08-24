@@ -147,6 +147,26 @@ uint32_t ECSPI_SetBaudRate(ECSPI_Type* base, uint32_t sourceClockInHz, uint32_t 
     return post_baud / (pre_div + 1);
 }
 
+/*FUNCTION**********************************************************************
+ *
+ * Function Name : ECSPI_SetSpiMode
+ * Description   : Change the SPI mode
+ *
+ *END**************************************************************************/
+void ECSPI_SetSpiMode(ECSPI_Type* base, const ecspi_init_config_t* initConfig)
+{
+    volatile uint32_t configreg;
+
+    /* eCSPI CONFIGREG Configuration */
+    configreg = ECSPI_CONFIGREG_REG(base);
+    configreg = ECSPI_CONFIGREG_REG(base) &
+                    ~((1 << ECSPI_CONFIGREG_SCLK_PHA_SHIFT | 
+                       1 << ECSPI_CONFIGREG_SCLK_POL_SHIFT) << initConfig->channelSelect);
+    configreg |= ECSPI_CONFIGREG_SCLK_PHA(((initConfig->clockPhase) & 1) << (initConfig->channelSelect)) |
+                 ECSPI_CONFIGREG_SCLK_POL(((initConfig->clockPolarity) & 1) << (initConfig->channelSelect));
+    ECSPI_CONFIGREG_REG(base) = configreg;
+}
+
 /*******************************************************************************
  * DMA management functions
  ******************************************************************************/

@@ -106,7 +106,7 @@ void ADC_Deinit(ADC_Type* base)
 void ADC_SetSampleRate(ADC_Type* base, uint32_t sampleRate)
 {
     uint8_t preDiv;
-    uint8_t coreTimerUnit;
+    uint8_t coreTimerUnit = 0;
 
     assert((sampleRate <= 1000000) && (sampleRate >= 1563));
 
@@ -286,7 +286,7 @@ void ADC_SetConvertRate(ADC_Type* base, uint8_t logicCh, uint32_t convertRate)
     uint32_t sampleRate = (4000000 >> (2 + (ADC_TIMER_UNIT_REG(base) >> ADC_TIMER_UNIT_PRE_DIV_SHIFT))) / \
                            ((ADC_TIMER_UNIT_REG(base) & ADC_TIMER_UNIT_CORE_TIMER_UNIT_MASK) + 1);
 
-    uint32_t convertDiv = sampleRate / convertRate;
+    uint32_t convertDiv = (sampleRate / convertRate) - 1;
     assert((sampleRate / convertRate) <= ADC_CH_A_CFG1_CHA_TIMER_MASK);
 
     switch (logicCh)
