@@ -49,12 +49,12 @@ void GPIO_Init(GPIO_Type* base, const gpio_init_config_t* initConfig)
     uint32_t pin;
     volatile uint32_t *icr;
 
-    /* Register reset to default value */
-    GPIO_IMR_REG(base) = 0;
-	GPIO_EDGE_SEL_REG(base) = 0;
-
     /* Get pin number */
     pin = initConfig->pin;
+
+    /* Clear Interrupt mask and edge-select for one particular GPIO */
+    GPIO_IMR_REG(base) &= ~(1U << pin);
+    GPIO_EDGE_SEL_REG(base) &= ~(1U << pin);
 
     /* Configure GPIO pin direction */
     if (initConfig->direction == gpioDigitalOutput)

@@ -340,6 +340,21 @@ static inline void ECSPI_SetSPIDataReady(ECSPI_Type* base, uint32_t spidataready
  */
 uint32_t ECSPI_SetBaudRate(ECSPI_Type* base, uint32_t sourceClockInHz, uint32_t bitsPerSec);
 
+/*FUNCTION**********************************************************************
+ *
+ * Function Name : ECSPI_SetSpiMode
+ * Description   : Change the SPI mode
+ *
+ *END**************************************************************************/
+/*!
+ * @brief Change the SPI mode
+ *
+ * @param base       eCSPI base pointer.
+ * @param initConfig eCSPI initialization structure. The following fields are used:
+ *                   channelSelect, clockPhase, clockPolarity
+ */
+void ECSPI_SetSpiMode(ECSPI_Type* base, const ecspi_init_config_t* initConfig);
+
 /*@}*/
 
 /*!
