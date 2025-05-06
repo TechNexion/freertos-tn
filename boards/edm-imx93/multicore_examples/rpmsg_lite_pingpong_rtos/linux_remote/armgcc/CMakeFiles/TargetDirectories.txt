@@ -1,0 +1,3 @@
+/home/william/Downloads/Axon-imx93-2_16/boards/mcimx93evk/multicore_examples/rpmsg_lite_pingpong_rtos/linux_remote/armgcc/CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir
+/home/william/Downloads/Axon-imx93-2_16/boards/mcimx93evk/multicore_examples/rpmsg_lite_pingpong_rtos/linux_remote/armgcc/CMakeFiles/edit_cache.dir
+/home/william/Downloads/Axon-imx93-2_16/boards/mcimx93evk/multicore_examples/rpmsg_lite_pingpong_rtos/linux_remote/armgcc/CMakeFiles/rebuild_cache.dir
