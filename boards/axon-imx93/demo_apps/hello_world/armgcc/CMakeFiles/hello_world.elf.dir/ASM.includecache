@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/gcc/startup_MIMX9352_cm33.S
+
+/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/utilities/fsl_memcpy.S
+

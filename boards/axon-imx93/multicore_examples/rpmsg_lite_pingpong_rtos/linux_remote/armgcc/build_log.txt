@@ -1,0 +1,55 @@
+Scanning dependencies of target rpmsg_lite_pingpong_rtos_linux_remote.elf
+[  2%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/boards/mcimx93evk/multicore_examples/rpmsg_lite_pingpong_rtos/linux_remote/main_remote.c.obj
+[  4%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/boards/mcimx93evk/multicore_examples/rpmsg_lite_pingpong_rtos/linux_remote/pin_mux.c.obj
+[  6%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/boards/mcimx93evk/multicore_examples/rpmsg_lite_pingpong_rtos/linux_remote/board.c.obj
+[ 10%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/boards/mcimx93evk/multicore_examples/rpmsg_lite_pingpong_rtos/linux_remote/clock_config.c.obj
+[ 10%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/boards/mcimx93evk/multicore_examples/rpmsg_lite_pingpong_rtos/linux_remote/rsc_table.c.obj
+[ 15%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/components/lists/fsl_component_generic_list.c.obj
+[ 15%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/components/serial_manager/fsl_component_serial_manager.c.obj
+[ 17%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/system_MIMX9352_cm33.c.obj
+[ 19%] Building ASM object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/gcc/startup_MIMX9352_cm33.S.obj
+[ 21%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/components/adp5585/fsl_adp5585.c.obj
+[ 23%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/drivers/fsl_cache.c.obj
+[ 26%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/drivers/fsl_common.c.obj
+[ 28%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/drivers/fsl_clock.c.obj
+[ 30%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/drivers/fsl_common_arm.c.obj
+[ 34%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/components/uart/fsl_adapter_lpuart.c.obj
+[ 34%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+[ 36%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/components/serial_manager/fsl_component_serial_port_uart.c.obj
+[ 39%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/drivers/fsl_mu.c.obj
+[ 41%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/components/pcal6524/fsl_pcal6524.c.obj
+[ 43%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/drivers/fsl_rgpio.c.obj
+[ 45%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+[ 47%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/rtos/freertos/freertos-kernel/croutine.c.obj
+[ 50%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/rtos/freertos/freertos-kernel/event_groups.c.obj
+[ 52%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/rtos/freertos/freertos-kernel/stream_buffer.c.obj
+[ 54%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/rtos/freertos/freertos-kernel/tasks.c.obj
+[ 56%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/rtos/freertos/freertos-kernel/list.c.obj
+[ 58%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/rtos/freertos/freertos-kernel/queue.c.obj
+[ 60%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/rtos/freertos/freertos-kernel/timers.c.obj
+[ 63%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/rtos/freertos/freertos-kernel/portable/GCC/ARM_CM33_NTZ/non_secure/port.c.obj
+[ 65%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/rtos/freertos/freertos-kernel/portable/MemMang/heap_4.c.obj
+[ 67%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/rtos/freertos/freertos-kernel/portable/GCC/ARM_CM33_NTZ/non_secure/portasm.c.obj
+[ 69%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/middleware/multicore/rpmsg_lite/lib/rpmsg_lite/rpmsg_lite.c.obj
+[ 71%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/middleware/multicore/rpmsg_lite/lib/common/llist.c.obj
+[ 73%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/rtos/freertos/freertos-kernel/portable/GCC/ARM_CM33_NTZ/non_secure/mpu_wrappers_v2_asm.c.obj
+[ 76%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/middleware/multicore/rpmsg_lite/lib/rpmsg_lite/rpmsg_ns.c.obj
+[ 78%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/middleware/multicore/rpmsg_lite/lib/virtio/virtqueue.c.obj
+[ 80%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/middleware/multicore/rpmsg_lite/lib/rpmsg_lite/porting/environment/rpmsg_env_freertos.c.obj
+[ 82%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/middleware/multicore/rpmsg_lite/lib/rpmsg_lite/rpmsg_queue.c.obj
+[ 84%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/middleware/multicore/rpmsg_lite/lib/rpmsg_lite/porting/platform/imx93_m33/rpmsg_platform.c.obj
+[ 86%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/utilities/fsl_sbrk.c.obj
+[ 89%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/utilities/fsl_syscall_stub.c.obj
+[ 91%] Building ASM object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/utilities/fsl_memcpy.S.obj
+[ 93%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/utilities/fsl_assert.c.obj
+[ 95%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/utilities/str/fsl_str.c.obj
+[ 97%] Building C object CMakeFiles/rpmsg_lite_pingpong_rtos_linux_remote.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/utilities/debug_console/fsl_debug_console.c.obj
+[100%] Linking C executable release/rpmsg_lite_pingpong_rtos_linux_remote.elf
+Memory region         Used Size  Region Size  %age Used
+    m_interrupts:        1140 B       1144 B     99.65%
+          m_text:         17 KB     129928 B     13.40%
+m_m33_suspend_ram:          0 GB         8 KB      0.00%
+m_a55_suspend_ram:          0 GB         4 KB      0.00%
+          m_data:       43936 B       108 KB     39.73%
+       m_rsc_tbl:          0 GB         4 KB      0.00%
+[100%] Built target rpmsg_lite_pingpong_rtos_linux_remote.elf

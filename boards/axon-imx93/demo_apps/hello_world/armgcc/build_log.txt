@@ -1,0 +1,35 @@
+Scanning dependencies of target hello_world.elf
+[  7%] Building C object CMakeFiles/hello_world.elf.dir/home/william/Downloads/Axon-imx93-2_16/boards/mcimx93evk/demo_apps/hello_world/board.c.obj
+[  7%] Building C object CMakeFiles/hello_world.elf.dir/home/william/Downloads/Axon-imx93-2_16/boards/mcimx93evk/demo_apps/hello_world/hello_world.c.obj
+[ 15%] Building C object CMakeFiles/hello_world.elf.dir/home/william/Downloads/Axon-imx93-2_16/boards/mcimx93evk/demo_apps/hello_world/pin_mux.c.obj
+[ 15%] Building C object CMakeFiles/hello_world.elf.dir/home/william/Downloads/Axon-imx93-2_16/boards/mcimx93evk/demo_apps/hello_world/clock_config.c.obj
+[ 30%] Building ASM object CMakeFiles/hello_world.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/gcc/startup_MIMX9352_cm33.S.obj
+[ 30%] Building C object CMakeFiles/hello_world.elf.dir/home/william/Downloads/Axon-imx93-2_16/components/serial_manager/fsl_component_serial_manager.c.obj
+[ 30%] Building C object CMakeFiles/hello_world.elf.dir/home/william/Downloads/Axon-imx93-2_16/components/uart/fsl_adapter_lpuart.c.obj
+[ 30%] Building C object CMakeFiles/hello_world.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/system_MIMX9352_cm33.c.obj
+[ 34%] Building C object CMakeFiles/hello_world.elf.dir/home/william/Downloads/Axon-imx93-2_16/components/lists/fsl_component_generic_list.c.obj
+[ 38%] Building C object CMakeFiles/hello_world.elf.dir/home/william/Downloads/Axon-imx93-2_16/components/serial_manager/fsl_component_serial_port_uart.c.obj
+[ 42%] Building C object CMakeFiles/hello_world.elf.dir/home/william/Downloads/Axon-imx93-2_16/components/adp5585/fsl_adp5585.c.obj
+[ 46%] Building C object CMakeFiles/hello_world.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/drivers/fsl_clock.c.obj
+[ 50%] Building C object CMakeFiles/hello_world.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/drivers/fsl_common.c.obj
+[ 53%] Building C object CMakeFiles/hello_world.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/drivers/fsl_common_arm.c.obj
+[ 57%] Building C object CMakeFiles/hello_world.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/drivers/fsl_cache.c.obj
+[ 61%] Building C object CMakeFiles/hello_world.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/drivers/fsl_lpuart.c.obj
+[ 65%] Building C object CMakeFiles/hello_world.elf.dir/home/william/Downloads/Axon-imx93-2_16/components/pcal6524/fsl_pcal6524.c.obj
+[ 69%] Building C object CMakeFiles/hello_world.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/drivers/fsl_rgpio.c.obj
+[ 76%] Building C object CMakeFiles/hello_world.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/utilities/fsl_sbrk.c.obj
+[ 76%] Building C object CMakeFiles/hello_world.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/drivers/fsl_sentinel.c.obj
+[ 80%] Building C object CMakeFiles/hello_world.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/utilities/fsl_syscall_stub.c.obj
+[ 84%] Building ASM object CMakeFiles/hello_world.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/utilities/fsl_memcpy.S.obj
+[ 88%] Building C object CMakeFiles/hello_world.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/utilities/debug_console/fsl_debug_console.c.obj
+[ 92%] Building C object CMakeFiles/hello_world.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/utilities/fsl_assert.c.obj
+[ 96%] Building C object CMakeFiles/hello_world.elf.dir/home/william/Downloads/Axon-imx93-2_16/devices/MIMX9352/utilities/str/fsl_str.c.obj
+[100%] Linking C executable release/hello_world.elf
+Memory region         Used Size  Region Size  %age Used
+    m_interrupts:        1140 B       1144 B     99.65%
+          m_text:        4980 B     129928 B      3.83%
+m_m33_suspend_ram:          0 GB         8 KB      0.00%
+m_a55_suspend_ram:          0 GB         4 KB      0.00%
+          m_data:        2352 B       108 KB      2.13%
+       m_rsc_tbl:          0 GB         4 KB      0.00%
+[100%] Built target hello_world.elf
