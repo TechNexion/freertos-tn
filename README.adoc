@@ -1,6 +1,28 @@
-= Freescale FreeRTOS BSP
+# NXP FreeRTOS BSP 2.16.X
 
-The FreeRTOS BSP is intended for use with NXP’s i.MX product family on the ARM Cortex-M4 core.
+The FreeRTOS BSP is intended for use with NXP’s i.MX93 product family with the ARM Cortex-M33 core.The BSP is based on NXP MCUXpresso SDK SDK_2_16_000_MCIMX93-EVK
 
+*Support platform:* `edm-imx93`、`axon-imx93`
 
-*Support platform:* `edm1-cf-imx6sx`
+Install GCC Arm embedded tool chain:
+
+Download and run the installer from GNU Arm Embedded Toolchain. This is the actual toolset (in other words, compiler, linker, and so on). The GCC toolchain should correspond to the latest supported version, as described in MCUXpresso SDK Release
+```
+https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads
+```
+FreeRTOS relies on cmake to build, so you also need to make sure the following packages are installed on your machine:
+```
+$ sudo apt-get install make cmake
+```
+Export the environment of toolchain:
+```
+$ export ARMGCC_DIR=/home/platforms/Downloads/gcc-arm-none-eabi-10.3-2021.10
+$ export PATH=$PATH:/home/platforms/Downloads/gcc-arm-none-eabi-10.3-2021.10/bin/
+```
+Then, you can start to build the example you would like to run.
+
+[Build_and_run_examples](https://github.com/TechNexion/freertos-tn/wiki/Build_and_run_example)
+
+Please refer to more information in NXP document:
+
+[Getting Started with MCUXpresso SDK.pdf](https://github.com/TechNexion/freertos-tn/tree/freertos_2.16.x_imx93/docs)
