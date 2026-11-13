@@ -36,7 +36,8 @@ int main(void)
     /* Init board hardware. */
     BOARD_InitHardware();
 
-    PRINTF("hello world.\r\n");
+    PRINTF("Hello world.\r\n");
+    PRINTF("M-Core process is ready,\r\nPlease type something...\r\n");
 
     while (1)
     {

@@ -7,6 +7,7 @@
 #include "board.h"
 #include "sm_platform.h"
 #include "pin_mux.h"
+#include "rsc_table.h"
 /*${header:end}*/
 
 /*${function:start}*/
@@ -16,5 +17,7 @@ void BOARD_InitHardware(void)
     BOARD_InitBootPins();
     BOARD_BootClockRUN();
     BOARD_InitDebugConsole();
+    BOARD_ConfigMPU();
+    copyResourceTable();
 }
 /*${function:end}*/

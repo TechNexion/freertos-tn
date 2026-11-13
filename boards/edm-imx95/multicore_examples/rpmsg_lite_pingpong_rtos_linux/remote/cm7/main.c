@@ -158,15 +158,21 @@ static void app_task(void *param)
     /* Wait Hello handshake message from Remote Core. */
     (void)rpmsg_queue_recv(my_rpmsg, my_queue, (uint32_t *)&remote_addr, helloMsg, sizeof(helloMsg), ((void *)0),
                            RL_BLOCK);
+    (void)PRINTF("Received from A-Core message:%s\r\n", helloMsg);
 #endif /* RPMSG_LITE_MASTER_IS_LINUX */
 
-    while (msg.DATA <= 100U)
+    while (true)
     {
         (void)PRINTF("Waiting for ping...\r\n");
         (void)rpmsg_queue_recv(my_rpmsg, my_queue, (uint32_t *)&remote_addr, (char *)&msg, sizeof(THE_MESSAGE),
                                ((void *)0), RL_BLOCK);
+        (void)PRINTF("Received for ping, data:%d\r\n", msg.DATA);
         msg.DATA++;
-        (void)PRINTF("Sending pong...\r\n");
+        if (msg.DATA >= 100) {
+            msg.DATA = 0;
+            break;
+        }
+        (void)PRINTF("Sending pong..., data:%d\r\n", msg.DATA);
         (void)rpmsg_lite_send(my_rpmsg, my_ept, remote_addr, (char *)&msg, sizeof(THE_MESSAGE), RL_BLOCK);
     }
 
@@ -197,20 +203,7 @@ cleanup:
     }
 
     msg.DATA = 0U;
-
-    if (error_occurred)
-    {
-        (void)PRINTF("Error occurred, looping forever...\r\n");
-    }
-    else
-    {
-        (void)PRINTF("Looping forever...\r\n");
-    }
-
-    /* End of the example */
-    for (;;)
-    {
-    }
+    (void)PRINTF("RPMSG loop ending...\r\n");
 }
 
 void app_create_task(void)
