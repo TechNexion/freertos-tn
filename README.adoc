@@ -1,27 +1,116 @@
 # NXP FreeRTOS BSP 25.09.X
 
-The FreeRTOS BSP is intended for use with NXP’s i.MX95 product family with the ARM Cortex-M7 core.The BSP is based on NXP MCUXpresso SDK SDK_25_09_00_MIMX9596xxxxN
+This FreeRTOS BSP supports the ARM Cortex-M7 core in NXP’s i.MX95 product family. It is based on the NXP MCUXpresso SDK `SDK_25_09_00_MIMX9596xxxxN`.
 
-*Support platform:* `edm-imx95`
+**Supported platforms:** `edm-imx95`, `edm-imx95-r`
 
-Install GCC Arm embedded tool chain:
+## Prerequisites
 
-Download and run the installer from GNU Arm Embedded Toolchain. This is the actual toolset (in other words, compiler, linker, and so on). The GCC toolchain should correspond to the latest supported version, as described in MCUXpresso SDK Release
-```
-https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads
-```
-FreeRTOS relies on cmake to build, so you also need to make sure the following packages are installed on your machine:
-```
-$ sudo apt-get install make cmake
-```
-Export the environment of toolchain:
-```
-$ export ARMGCC_DIR=/home/platforms/Downloads/gcc-arm-none-eabi-10.3-2021.10
-$ export PATH=$PATH:/home/platforms/Downloads/gcc-arm-none-eabi-10.3-2021.10/bin/
-```
-Then, you can start to build the example you would like to run.
+Ensure that the following tools are installed on your host system:
 
-[Build_and_run_examples](https://github.com/TechNexion/freertos-tn/wiki/Build_and_run_example)
+- Git
+- The `repo` tool
+- Docker
+- NXP Universal Update Utility (`uuu`) for flashing
 
-Please refer to more information in NXP document from https://mcuxpresso.nxp.com/mcuxsdk/25.06.00
+Docker must be running, and your user account must have permission to run Docker commands.
 
+The build uses a Docker environment, so you do not need to install the ARM GCC toolchain or CMake on the host system.
+
+## 1. Download the Source Code
+
+Create a workspace, initialize the manifest, and synchronize the repositories:
+
+```bash
+mkdir -p tn_demo
+cd tn_demo
+
+repo init \
+    -u https://github.com/TechNexion/freertos-tn.git \
+    -b freertos_25.09.x_imx95 \
+    -m uboot-manifest/tn-imx_6.18.37_2.1.0_manifest.xml
+
+repo sync
+```
+
+Run the following steps in the same terminal session.
+
+## 2. Build the Docker Image
+
+From the `tn_demo` workspace root, build the Docker image:
+
+```bash
+cd sources/freertos-tn/build-tools/
+./build_docker.sh
+```
+
+## 3. Build the Demo Applications
+
+Return to the `tn_demo` workspace root and run the build script:
+
+```bash
+cd ../../../
+./build_flash_bin.sh -b
+```
+
+The `-b` / `--build` option is required to start the build process. To specify the target platform, use `-p` / `--set-project-type` together with `-b`.
+
+### Build Options
+
+| Option | Description |
+| --- | --- |
+| `-h`, `--help` | Show the help message and exit. |
+| `-c`, `--clean` | Clean previous build artifacts and exit. |
+| `-p`, `--set-project-type <TYPE>` | Specify the build project type: `edm-imx95` or `edm-imx95-r`. |
+| `-b`, `--build` | Start the build process. |
+
+### Examples
+
+Clean previous build artifacts:
+
+```bash
+./build_flash_bin.sh -c
+```
+
+Build for `edm-imx95`:
+
+```bash
+./build_flash_bin.sh -p edm-imx95 -b
+```
+
+Build for `edm-imx95-r`:
+
+```bash
+./build_flash_bin.sh --set-project-type edm-imx95-r --build
+```
+
+## 4. Build Output
+
+After the build completes, the build script creates an `output/` directory under the `tn_demo` workspace root containing the following three M7 boot images:
+
+| File | Demo application |
+| --- | --- |
+| `m7_hello_world_flash.bin` | Hello World |
+| `m7_rpmsg_lite_pingpong_flash.bin` | RPMsg-Lite Ping Pong |
+| `m7_rpmsg_lite_str_echo_flash.bin` | RPMsg-Lite String Echo |
+
+## 5. Flash the Board
+
+Set the `edm-imx95` or `edm-imx95-r` board to **Serial Download Mode**, then connect it to the host system for flashing.
+
+Use the following command to flash the selected image to eMMC:
+
+```bash
+uuu -b emmc <flash.bin_file_name>
+```
+
+For example, from the `tn_demo` workspace root, flash the Hello World image:
+
+```bash
+uuu -b emmc output/m7_hello_world_flash.bin
+```
+
+## References
+
+- [TechNexion: Build and Run Examples](https://github.com/TechNexion/freertos-tn/wiki/Build_and_run_example)
+- [NXP MCUXpresso SDK Documentation](https://mcuxpresso.nxp.com/mcuxsdk/25.06.00)
