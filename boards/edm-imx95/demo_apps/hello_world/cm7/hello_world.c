@@ -36,9 +36,8 @@ int main(void)
     /* Init board hardware. */
     BOARD_InitHardware();
 
-    PRINTF("Hello world.\r\n");
-    PRINTF("M-Core process is ready,\r\nPlease type something...\r\n");
-
+    PRINTF("Hello world - Cortex-M7 Example\r\n");
+    PRINTF("Firmware initialized successfully.\r\nReady to receive input.\r\nPlease enter a message:\r\n");
     while (1)
     {
         ch = GETCHAR();

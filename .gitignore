@@ -5,3 +5,4 @@
 **/armgcc/cmake_install.cmake
 **/armgcc/debug/
 **/armgcc/output.map
+build-tools/*.tar.xz

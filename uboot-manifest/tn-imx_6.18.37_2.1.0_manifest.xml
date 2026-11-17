@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <default revision="tn-imx_6.18.37_2.1.0" sync-j="4"/>
+  <remote name="tn"          fetch="https://github.com/TechNexion"/>
+  <remote name="nxp"         fetch="https://github.com/nxp-imx"/>
+
+  <project name="imx-mkimage" remote="nxp" path="sources/imx-mkimage" revision="b1f801d30cf30a5d8b8dff36f8e1acafa242d53f"  upstream="lf-6.18.37_2.1.0" />
+  <project name="imx-atf" remote="nxp" path="sources/imx-atf" revision="af9eb2c1748ee3abc0ead7dc76e462f50c573036" upstream="lf_v2.14" />
+  <project name="u-boot-tn-imx" remote="tn" path="sources/u-boot-tn-imx" revision="tn-imx_v2026.04_6.18.37_2.1.0-next" />
+  <project name="imx-sm" remote="tn" path="sources/imx-sm" revision="tn-imx_6.18.37_2.1.0" />
+  <project name="imx-oei" remote="tn" path="sources/imx-oei" revision="tn-imx_6.18.37_2.1.0" />
+  <project name="freertos-tn" remote="tn" path="sources/freertos-tn" revision="freertos_25.09.x_imx95" />
+</manifest>
